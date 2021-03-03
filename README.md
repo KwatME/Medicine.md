@@ -1,24 +1,24 @@
-# " (comment)
+/g" (comment)
  
-# { (contain)
+/g{ (contain)
  
-# > (become)
+/g> (become)
  
-# + (make)
+/g+ (make)
  
-# - (break)
+/g- (break)
  
-# / (increase amount)
+/g/ (increase amount)
  
-# \ (decrease amount)
+/g\ (decrease amount)
  
-# ^ (increase function)
+/g^ (increase function)
  
-# v (decrease function)
+/gv (decrease function)
 
 Association
 
-- Positive: {, >, +, /, ^,
-- Negative: -, \, v
+- Positive: \{, \>, \+, \/, \^,
+- Negative: \-, \\, \v
 
 Be specific, minimal, and modular.
