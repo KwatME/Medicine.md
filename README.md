@@ -2,11 +2,11 @@
  
 { (contain)
  
-> (become)
+\> (become)
 
-+ (make)
+\+ (make)
  
-- (break)
+\- (break)
  
 / (increase amount)
  
