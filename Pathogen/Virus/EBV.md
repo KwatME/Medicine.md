@@ -22,4 +22,4 @@ Splenomegaly
 
 Rash
 
-Burkitt Lymphoma
+BL
