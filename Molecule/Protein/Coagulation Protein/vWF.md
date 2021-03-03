@@ -7,6 +7,10 @@ Links collagen and GP1b.
 
 Factor 8a
 
+# \
+
+Platelet
+
 # ^
 
 Platelet
