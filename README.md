@@ -4,9 +4,9 @@
  
 # > (become)
  
-# - (make)
+# + (make)
  
-# * (break)
+# - (break)
  
 # / (increase amount)
  
@@ -15,5 +15,10 @@
 # ^ (increase function)
  
 # v (decrease function)
+
+Association
+
+- Positive: {, >, +, /, ^,
+- Negative: -, \, v
 
 Be specific, minimal, and modular.
