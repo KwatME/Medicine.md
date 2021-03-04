@@ -10,6 +10,10 @@ Diagnosed clinically: thrombocytopenia, timing, thrombosis, and other cause.
 
 HIT until proven otherwise.
 
+# /
+
+Anti-Heparin-Factor 4
+
 # ^
 
 Thrombosis

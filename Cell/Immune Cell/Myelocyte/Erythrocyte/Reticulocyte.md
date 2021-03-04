@@ -8,6 +8,10 @@ Becomes a RBC.
 
 2% of RBC is reticulocyte.
 
+# {
+
+2,3BPG
+
 # >
 
 RBC

@@ -1,5 +1,0 @@
-# ^
-
-Erythropoiesis
-
-Thrombopoiesis
