@@ -1,3 +1,6 @@
+# "
+
+Blood supernatant becomes less transparent due to exodus of the contents inside the RBCs.
 # -
 
 RBC

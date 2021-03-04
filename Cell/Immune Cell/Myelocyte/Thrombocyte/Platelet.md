@@ -12,6 +12,8 @@ As they circulate, they bump into things and chip away, becoming smaller.
 
 Epinephrine releases attached platelet.
 
+Activated at cold temperature.
+
 # {
 
 Mitochondria
@@ -33,6 +35,10 @@ Histamine
 Serotonin
 
 Factor 4
+
+# /
+
+IgE
 
 # \
 
