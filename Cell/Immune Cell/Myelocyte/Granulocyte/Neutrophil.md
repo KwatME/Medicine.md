@@ -7,6 +7,8 @@ In response to demand, this divides 1 extra time to increase in number and spend
 
 Neutrophil extracellular trap is secretion of DNA to attack a pathogen and to activate coagulation.
 
+African can have less glycosylation resulting in a decreased risk of malaria but also a decreased number of neutrophils without increasing the risk for infection.
+
 # {
 
 Actin

@@ -2,11 +2,19 @@
 
 Has many names.
 
+Stays in a tissue for as long.
+
 # {
 
 Ferroportin
 
 Hemosiderin
+
+Kupffer Cell
+
+Alveolar Macrophage
+
+Osteoclast
 
 # \
 
