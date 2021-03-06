@@ -1,7 +1,17 @@
+# \
+
+DNA
+
 # ^
 
-Macrocytic Anemia
+Shortness of Breath
+
+Headache
 
 # v
 
-Thrombopoiesis
+Hematopoiesis
+
+Fetus
+
+Appetite

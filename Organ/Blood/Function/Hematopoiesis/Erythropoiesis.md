@@ -30,3 +30,7 @@ Pruritus
 Hepatomegaly
 
 Splenomegaly
+
+# v
+
+Macrocytic Anemia

@@ -1,3 +1,3 @@
 # -
 
-Thrombin
+Factor 2a

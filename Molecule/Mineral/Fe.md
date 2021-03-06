@@ -1,6 +1,10 @@
 # "
 
-5g in the body: 3g used in the erythroid cells, 0.5g used in myoglobin, 1g stored in ferritin and hemosiderin, and 0.007g transported by transferrin.
+5g in the body: 3g used in hemoglobin, 0.5g used in myoglobin, 1g stored in ferritin and hemosiderin, and 0.007g transported by transferrin.
+
+# /
+
+Hemoglobin
 
 # \
 
@@ -23,5 +27,3 @@ Brittled Nail
 Tongue Atrophy
 
 Angular Stomatitis
-
-RBC Deformity

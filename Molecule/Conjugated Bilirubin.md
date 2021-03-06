@@ -1,5 +1,0 @@
-# >
-
-Pigmented Gallstone
-
-Juandice

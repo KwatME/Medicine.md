@@ -1,7 +1,0 @@
-# "
-
-Platelet activating factor.
-
-# /
-
-Neutrophil

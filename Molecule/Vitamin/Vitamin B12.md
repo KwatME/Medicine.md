@@ -4,18 +4,18 @@ Cobalamin.
 
 Absorbed only from red meat.
 
+# /
+
+DNA
+
 # \
 
 Homocysteine
 
 Methylmalonic Acid
 
+# v
+
 Megaloblastic Anemia
 
-Neural Damage
-
-# ^
-
-DNA Synthesis
-
-DNA Methylation
+Neuron
