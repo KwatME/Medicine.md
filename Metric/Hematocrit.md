@@ -1,3 +1,3 @@
 # "
 
-Does not go above 56%.
+Rarely goes above 56%.
