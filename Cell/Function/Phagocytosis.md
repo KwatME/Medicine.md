@@ -4,7 +4,7 @@ O2
 
 H2O2
 
-H+
+H
 
 Cation
 

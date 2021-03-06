@@ -1,7 +1,0 @@
-# \
-
-Fe
-
-# v
-
-Pathogen
