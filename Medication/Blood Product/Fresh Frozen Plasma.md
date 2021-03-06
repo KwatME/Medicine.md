@@ -1,7 +1,5 @@
 # "
 
-Fresh frozen plasma.
-
 All volume goes into the blood vessels.
 
 # ^
