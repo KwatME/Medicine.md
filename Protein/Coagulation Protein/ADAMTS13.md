@@ -1,7 +1,7 @@
 # -
 
-vWF
+von Willebrad Factor
 
 # v
 
-TPP
+Thrombotic Thrombocytopenic Purpura

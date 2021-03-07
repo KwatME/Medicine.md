@@ -2,17 +2,15 @@
 
 Thrombin.
 
-Heparin binds to antithrombin and thrombin to catalyze antithrombin function.
-
 # /
 
-Factor 8
+Factor 8a
 
-Factor 5
+Factor 5a
 
-Factor 2
+Factor 2a
 
-Factor 13
+Factor 13a
 
 # ^
 

@@ -1,7 +1,3 @@
 # -
 
-NMJ
-
-# ^
-
-Myasthenia Gravis
+Neuromuscular Junction

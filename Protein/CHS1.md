@@ -1,6 +1,6 @@
 # \
 
-Chediak-Higashi Syndrome
+Chediak-Higashi Syndrome.
 
 # ^
 

@@ -1,9 +1,9 @@
 # -
 
-Platelet
+Red Blood Cell
 
 # ^
 
-Platelet
+Hemolysis
 
 Disseminated Intravascular Coagulation

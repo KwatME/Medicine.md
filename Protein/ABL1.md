@@ -2,8 +2,6 @@
 
 Tyrosine kinase.
 
-Oncogene.
-
 # ^
 
-CML
+Chronic Myeloid Leukemia

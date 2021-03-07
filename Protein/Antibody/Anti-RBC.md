@@ -1,9 +1,0 @@
-# -
-
-RBC
-
-# ^
-
-Hemolysis
-
-TPP

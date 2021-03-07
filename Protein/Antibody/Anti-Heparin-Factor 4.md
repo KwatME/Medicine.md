@@ -6,4 +6,6 @@ Factor 4
 
 # ^
 
-HIT
+Platelet
+
+Heparin Induced Thrombocytopenia

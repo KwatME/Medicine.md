@@ -1,20 +1,20 @@
 # "
 
-Heparin binds to antithrombin and thrombin to catalyze antithrombin function.
+Heparin binds to antithrombin and thrombin to catalyze antithrombin inhibiting thrombin.
 
-Protein C, which breaks thrombosis, can compensate for lack of antithrombin.
+Protein C can compensate for lack of antithrombin.
 
 # -
 
-Factor 12
+Factor 12a
 
-Factor 11
+Factor 11a
 
-Factor 9
+Factor 9a
 
-Factor 10
+Factor 10a
 
-Facotor 2
+Facotor 2a
 
 # \
 

@@ -4,14 +4,14 @@ Shorter half life than the other factors.
 
 # -
 
-Factor 8
+Factor 8a
 
-Factor 5
+Factor 5a
 
 # /
 
 Protein S
 
-# \
+# v
 
 Thrombosis

@@ -10,6 +10,6 @@ ABL1
 
 # ^
 
-CML
+Chronic Myeloid Leukemia
 
-ALL
+Acute Lymphoid Leukemia

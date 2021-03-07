@@ -1,7 +1,9 @@
 # "
 
-"Increased use decreases function."
+Increased use decreases function.
 
-# ^
+# v
 
-Motor
+Motor Deficit
+
+Myasthenia Gravis

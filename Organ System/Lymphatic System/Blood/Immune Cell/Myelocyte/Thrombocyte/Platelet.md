@@ -26,7 +26,7 @@ GP2b
 
 # +
 
-TPO
+Thrombopoietin
 
 Thromboxane
 
@@ -42,7 +42,9 @@ IgE
 
 # \
 
-vWF
+von Willebrad Factor
+
+Platelet
 
 # ^
 
