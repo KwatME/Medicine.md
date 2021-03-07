@@ -1,6 +1,6 @@
 # "
 
-Inhibits megakaryocyte from become platelets.
+Inhibits megakaryocyte from becoming platelets.
 
 # \
 

@@ -19,14 +19,14 @@ Norepinephrine
 
 Insulin
 
-Parkinson Disease
-
 # v
 
 Artery
 
 Kidney
 
-GI
+Digestive System
 
 Lymphocyte
+
+Parkinson Disease
