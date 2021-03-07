@@ -1,14 +1,14 @@
 # "
 
-Epstein Barr virus.
-
 Posterior lymphoadenopathy.
 
 # /
 
-T
+T Cell
 
 # ^
+
+Burkitt Lymphoma
 
 Fever
 
@@ -21,5 +21,3 @@ Hepatomegaly
 Splenomegaly
 
 Rash
-
-BL

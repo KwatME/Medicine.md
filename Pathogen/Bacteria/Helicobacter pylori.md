@@ -4,4 +4,4 @@ Infects stomach pylorus.
 
 # v
 
-GI
+Stomach
