@@ -1,6 +1,6 @@
 # "
 
-Muilti-histocompatibility complex.
+Major histocompatibility complex.
 
 HLA.
 

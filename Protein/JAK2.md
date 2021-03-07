@@ -6,6 +6,6 @@ Non-receptor tyrosine kinase.
 
 # ^
 
-PV
+Polycythemia Vera
 
-ET
+Essential Thrombocythemia

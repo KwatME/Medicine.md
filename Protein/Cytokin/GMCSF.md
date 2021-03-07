@@ -2,9 +2,9 @@
 
 Myelopoiesis
 
-Granulopoiesis
-
 Monopoiesis
+
+Granulopoiesis
 
 Erythropoiesis
 

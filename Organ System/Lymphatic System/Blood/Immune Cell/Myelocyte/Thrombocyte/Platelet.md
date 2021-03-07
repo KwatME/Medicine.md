@@ -26,7 +26,7 @@ GP2b
 
 # +
 
-Thrombopoietin
+TPO
 
 Thromboxane
 

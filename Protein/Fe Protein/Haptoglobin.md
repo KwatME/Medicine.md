@@ -1,7 +1,7 @@
 # "
 
-Binds free Hg, which is oxidizing.
+Binds free hemoglobin, which is oxidizing.
 
 # -
 
-Hg
+Hemoglobin
