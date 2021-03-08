@@ -1,12 +1,12 @@
 # "
 
-Decreases Fe circulation (may be for preventing pathogens from taking advantage of Fe).
+Decreases the circulating Fe to prevent pathogens from eating it.
 
 # /
 
 Hepcidin
 
-Bilirubin
+Conjugated Bilirubin
 
 Neutrophil
 
@@ -28,9 +28,9 @@ Rash
 
 Diarrhea
 
-ESR
+Erythrocyte Sedimentation Rate
 
-CRP
+C Reactive Protein
 
 Hepcidin
 

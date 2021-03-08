@@ -12,9 +12,9 @@ Tissue Plasminogen Activator
 
 TPO
 
-Factor 8
+Factor 8a
 
-vWF
+von Willebrad Factor
 
 Prostacyclin
 
