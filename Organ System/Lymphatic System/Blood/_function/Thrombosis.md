@@ -10,7 +10,7 @@ Venous Thrombosis
 
 # ^
 
-DIC
+Disseminated Intravascular Coagulation
 
 Hemolysis
 

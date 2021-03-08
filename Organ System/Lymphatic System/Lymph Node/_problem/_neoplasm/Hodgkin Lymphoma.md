@@ -1,7 +1,5 @@
 # "
 
-Hodgkin lymphoma.
-
 Hodgkin cells are sparse.
 
 # {

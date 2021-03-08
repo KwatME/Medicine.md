@@ -5,8 +5,8 @@ T completes in the thymus and B in a lymphnode.
 
 # +
 
-NK
+Natural Killer Cell
 
-Naive T
+Naive T Cell
 
-Naive B
+Naive B Cell
