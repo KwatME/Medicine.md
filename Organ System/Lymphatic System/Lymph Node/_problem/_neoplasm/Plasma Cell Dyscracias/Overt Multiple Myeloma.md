@@ -1,7 +1,5 @@
 # "
 
-Overt multiple myeloma.
-
 Antibody toxicity is higher and mass effect is higher.
 
 # /
