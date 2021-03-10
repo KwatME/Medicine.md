@@ -1,7 +1,7 @@
 # "
 
-Cancer to DIC.
+Cancer to disseminated intravascular coagulation.
 
 # ^
 
-DIC
+Disseminated Intravascular Coagulation

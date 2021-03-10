@@ -6,7 +6,7 @@ Synergistic with oral contraceptives.
 
 # /
 
-Factor 5
+Factor 5a
 
 # ^
 

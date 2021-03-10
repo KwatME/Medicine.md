@@ -1,6 +1,6 @@
 # +
 
-Anti-RBC
+Anti-Red Blood Cell
 
 Anti-Platelet
 
@@ -10,4 +10,4 @@ Anti-Neutrophil
 
 Hemolysis
 
-ITP
+Immune Thrombocytopenic Purpura

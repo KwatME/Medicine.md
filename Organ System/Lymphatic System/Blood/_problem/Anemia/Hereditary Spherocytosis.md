@@ -4,4 +4,4 @@ Spherocyte
 
 # \
 
-RBC
+Red Blood Cell

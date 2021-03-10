@@ -1,13 +1,14 @@
 # "
 
-Blood supernatant becomes less transparent due to exodus of the contents inside the RBCs.
+Blood supernatant becomes less transparent due to exodus of the contents inside the red blood cells.
+
 # -
 
-RBC
+Red Blood Cell
 
 # /
 
-Hg
+Hemoglobin
 
 LDH
 
