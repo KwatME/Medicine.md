@@ -9,3 +9,5 @@ D Dimer
 # ^
 
 Stroke
+
+Bleeding

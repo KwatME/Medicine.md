@@ -2,6 +2,6 @@
 
 Infects stomach pylorus.
 
-# v
+# ^
 
-Stomach
+Peptic Ulcer Disease
