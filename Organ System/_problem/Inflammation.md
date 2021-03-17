@@ -40,6 +40,8 @@ Microcytic Anemia
 
 Normacytic Anemia
 
+Acute Hepatitis
+
 # v
 
 Hematopoiesis

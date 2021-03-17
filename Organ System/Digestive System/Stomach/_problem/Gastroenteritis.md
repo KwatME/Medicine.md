@@ -1,12 +1,12 @@
 # "
 
-Rota virus in children.
+Rota virus infection in children.
 
-Noro virus in adult.
+Noro virus infection in adult.
 
 Bacteria cause higher temperature.
 
-Crampy.
+Cramp.
 
 # ^
 
@@ -18,4 +18,4 @@ Diarrhea
 
 Abdominal Epigastric Pain
 
-Constitutional Syndrome
+Constitutional Symptom

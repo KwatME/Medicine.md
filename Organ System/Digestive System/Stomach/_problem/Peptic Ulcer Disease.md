@@ -1,11 +1,17 @@
+# "
+
+Radiates to back.
+
 # /
 
 Eating
 
 # ^
 
-Blood in Stool
+Epigastric Pain
 
 Nausea
 
 Vomiting
+
+Gastrointestinal Bleed

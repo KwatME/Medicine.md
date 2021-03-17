@@ -1,12 +1,12 @@
 # "
 
-Bile tract inflammation.
+Pain lasts from hours to days.
 
-Pain lasts for hours.
+There are many causes.
 
 # /
 
-Pancreatic Neoplasm
+White Blood Cell
 
 Conjugated Bilirubin
 
@@ -18,12 +18,8 @@ Alanine Transaminase
 
 # ^
 
-Juandice
-
 Nausea
 
 Vomiting
 
-Fever
-
-Abdominal Upper Right Quadrant Pain
+Juandice
