@@ -18,12 +18,12 @@ Alanine Transaminase
 
 # ^
 
+Abdominal Upper Right Quadrant Pain
+
 Juandice
 
 Nausea
 
 Vomiting
 
-Fever
-
-Abdominal Upper Right Quadrant Pain
+Shock
