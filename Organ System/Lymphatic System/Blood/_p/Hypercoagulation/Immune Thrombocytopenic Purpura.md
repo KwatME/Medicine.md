@@ -2,6 +2,8 @@
 
 Plasma cells make anti-platelets.
 
+Anti-GP2b.
+
 Can treat with anti-CD20 to decrease antibodies.
 
 Platelet lives for hours. 

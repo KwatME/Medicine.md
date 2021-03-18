@@ -2,19 +2,21 @@
 
 Acute Viral Hepatitis
 
-Liver Abscess
-
 Acute Alcohol Hepatitis
 
 Acute Medication Hepatitis
 
+Acute Autoimmune Hepatitis
+
+Liver Abscess
+
 Hepatic Congestion
 
-Budd Chiari Syndrome
+Budd-Chiari Syndrome
 
 Acute Cholecystitis
 
-Gallstone
+Cholelithiasis
 
 Acute Cholangitis
 

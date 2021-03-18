@@ -1,7 +1,7 @@
 # "
 
 Symptomatic cholelithiasis, where a gallstore temporarily blocks the cystic duct.
-Eating and night trigger the pain, which can last from minutes to hours.
+Eating and night trigger the pain, which is episodic and lasts from minutes to hours.
 
 # /
 

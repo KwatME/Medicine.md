@@ -7,8 +7,6 @@ Pain lasts for hours.
 
 # /
 
-Gallstone
-
 White Blood Cell
 
 # ^
