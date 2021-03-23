@@ -6,10 +6,12 @@ Onset 45.
 
 Treat with retinoic acid.
 
+Aggressive.
+
 # {
 
 PML-RARA
 
 # ^
 
-DIC
+Disseminated Intravascular Coagulation
