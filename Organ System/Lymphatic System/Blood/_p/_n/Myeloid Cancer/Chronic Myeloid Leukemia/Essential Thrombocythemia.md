@@ -12,3 +12,7 @@ Neutrophil
 Thrombopoiesis
 
 Myelofibrosis
+
+Stroke
+
+Bleeding
