@@ -1,5 +1,5 @@
 # "
 
-70% is Epstein-Barr virus associated. 
+70% is Epstein-Barr virus associated.
 
 Proliferates rapidly.

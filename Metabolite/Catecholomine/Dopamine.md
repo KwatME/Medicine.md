@@ -1,6 +1,6 @@
 # "
 
-80% of the catecholomine in the brain. 
+80% of the catecholomine in the brain.
 
 Made in plants too.
 
