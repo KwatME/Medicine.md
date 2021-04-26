@@ -2,4 +2,4 @@
 
 Inhibits RNA polymerase.
 
-Treats worm infection by killing worm obligate bacteria. 
+Treats worm infection by killing worm obligate bacteria.

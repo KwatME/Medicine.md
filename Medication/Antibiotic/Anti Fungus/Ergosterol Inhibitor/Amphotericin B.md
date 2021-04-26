@@ -13,4 +13,3 @@ To minimize the side effects, some variants are packaged with lipid membranes, f
 Despite the side effects, used widely for yeasts, molds, endemic fungi, and Cryptococcus neoformans induction.
 
 Treats Leishmania.
-
