@@ -1,0 +1,109 @@
+## Profile Picture
+
+![](1.jpeg)
+
+## Summary
+
+## Name
+
+Varicella means changing, various, and fire like.
+Zoster means belt.
+
+## PATHOGEN
+
+### Evolve
+
+dsDNA, capsid, envelop, glycoproteins.
+
+Grows poorly in culture.
+
+### Enter
+
+Enters epithelial cell, is presented to and taken up by dendritic cell, and is taken to T cell.
+
+Inhaled respiratory droplet is the most common.
+
+Upper respiratory tract epithelial cell --> Lymphoid tissue --> T cell -x2-> Blood.
+
+### Colonize
+
+Infects T cell and replicates with T cell replication.
+Infected T cells spread them to skins, causing chicken pox.
+
+### Persist
+
+90% of the time, colonizes dorsal root ganglia cell.
+
+### Replicate
+
+### Exit
+
+Exits from 2nd viremia respiratory shedding droplets.
+Exits from rash fluid.
+
+## IMMUNITY
+
+### Protect
+
+### Detect
+
+### Deploy
+
+T cell.
+
+### Eliminate
+
+Can't eliminate; they chronically live in the dorsal root ganglia cell.
+
+### Remember
+
+## MEDICINE
+
+### Sign and Symptom
+
+1st viremia --> prodrome including fever.
+Primary infection causes chicken pox, which is itchy, centrally distributed, and can involve mucus membrane.
+Secondary infection causes shingles, which is a painful vesicular rash over a dermatomal distribution and can last over a week.
+
+Viremic: virus can damage organs: pneumonia, hepatitis, encephalitis
+
+Bacterial super infection by Staphylococcus aureus and Streptococcus pyogenes; don't scratch.
+
+20% postherpetic neuralgia: increased sensitivity.
+
+If CNV is affected, herpes zoster ophthalmicus happens damaging eye things. 
+
+### Diagnosis
+
+Ig.
+Clinical diagnosis in most cases.
+Sometimes molecular diagnostics; PCR is ideal; antibody test available.
+
+### Therapy
+
+Symptom control in most cases. For immunocompromised, use acyclovir to inhibit viral DNA polymerase.
+Less sensitive to acyclovir than herpes simplex virus, so higher dose than when treating herpes simplex virus.
+Famciclovir is an alternative.
+Save antibody therapy for immunocompromised patients.
+
+### Prevention
+
+Live attenuated vaccine of Oka strain (can be combined with measles, mumps, and rubella); don't give to immunocompromised or pregnant people.
+Chicken pox vaccine for children.
+Shingles vaccine (same strain but higher dose) for elderlies.
+
+### Epidemiology
+
+More in temperate climates than in tropical ones.
+More in late winter and spring.
+Attach rate is 90%.
+Before vaccination was available, there were 4 million cases, over 10000 hospitalizations, and over 100 deaths each year.
+Children account for the most victims.
+
+## Gallery
+
+![](2.jpeg)
+
+![](3.jpeg)
+
+![](4.jpeg)
