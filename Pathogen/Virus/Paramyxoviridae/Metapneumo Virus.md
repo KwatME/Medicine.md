@@ -12,7 +12,7 @@
 
 ### Evolve
 
-RNA.
+Similar to RSV.
 
 ### Enter
 
@@ -44,6 +44,8 @@ Bronchiole.
 ### Sign and Symptom
 
 Bronchitis.
+
+Bronchilitis.
 
 Pneumonia.
 

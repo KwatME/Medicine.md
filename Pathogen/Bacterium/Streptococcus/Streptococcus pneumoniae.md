@@ -79,6 +79,8 @@ Children transmit frequently.
 
 ### Sign and Symptom
 
+More suseptible in people with lung diseses with larger alveoli.
+
 Becomes pathogenic in people with weaker immunity, including children and elderly. 
 
 Single acute rigor.
