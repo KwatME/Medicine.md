@@ -2,4 +2,6 @@
 
 Pneumonia with radiograph showing patchy consolidations.
 
-Typically infected with Staphylococcus aureus, enterics, or Pseudomonas aeruginosa.
+- Staphylococcus aureus
+- Enterics
+- Pseudomonas aeruginosa

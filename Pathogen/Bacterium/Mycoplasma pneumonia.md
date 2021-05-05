@@ -23,7 +23,6 @@ Unlike other bacteria, UGA codon is not a stop codon but translates into tryptop
 Lacks many metabolic pathways.
 Devotes to establishing H gradient and maintianing organelle that attaches to the host cell and glides the body.
 
-
 Difficult to culture; not done in clinical setting.
 Fried egg appearance in culture.
 
