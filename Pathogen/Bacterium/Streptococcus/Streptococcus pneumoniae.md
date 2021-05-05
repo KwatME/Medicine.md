@@ -146,3 +146,13 @@ Penicillin-resistant Streptococcus pneumoniae.
 # +
 
 Streptokinase
+
+# ^
+
+Pneumonia
+
+meningitis
+
+Otitis Media
+
+Sinusitis

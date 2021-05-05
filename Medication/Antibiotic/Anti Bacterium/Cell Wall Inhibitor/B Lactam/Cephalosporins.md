@@ -23,8 +23,8 @@ Generation 3 + Pseudomonas aeruginosa and Enterobacteriaceae family.
 Cefepime.
 
 ## 5
-Generation 3 + methicillin resistant Staphylococcus aureus.
-Ceftaroline.
+Generation 3 + methicillin resistant Staphylococcus aureus (MRSA).
+Ceftaroline, the only b lactam against MRSA.
 
 ## (6)
 

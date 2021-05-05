@@ -4,10 +4,12 @@ Lipopeptide.
 
 Froms pore in Ca++ dependent manner.
 
-Narrow spectrum bactericidal (faster than vancomycin) against serious MRSA infection without pneumonia.
+Narrow spectrum bactericidal (faster than vancomycin) against serious methicillin resistant Staphylococcus aureus infection without pneumonia.
 
-Inactivated by alveolar surfactants, so shall not be used for pneumonia.
+Inactivated by alveolar surfactants, so should not be used for pneumonia.
 
-Myopathy.
+Monitor creatine phosphokinase to avoid myopathy.
 
-Monitor CPK.
+# ^
+
+Myopathy

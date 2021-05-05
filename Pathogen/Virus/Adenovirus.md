@@ -1,104 +1,65 @@
 # "
 
-## Profile Picture
-
-![](1.jpeg)
-
-## Summary
-
 ## Name
 
-Adenoid gland.
+Adeno refers to the adenoid glands.
 
-## PATHOGEN
+## Feature
 
-### Evolve
+dsDNA genome in a capsid.
 
-dsDNA.
-Naked capsid.
+Capsid has fiber protein, which competitively binds to the receptors that seal the tight junction, distupting tight junctions.
 
 Only adenoviridae that infects human.
-
-### Enter
-
-### Colonize
-
-Nasopharynx.
-Oropharynx.
-Larynx.
-Bronchus.
-Bronchiole.
-Can infect all tissues.
-
-Can go beyond epithelium: in organ diseases including hepatitis.
-
-### Persist
-
-Tonsil.
-Adenoids.
-
-### Replicate
-
-dsDNA in the nucleus.
-
-2 broken viral genoms can combine: a process called multiple reactivation.
-
-### Exit
-
-Fecal oral.
-
-Fiber protein on its capsid surface.
-
-## IMMUNITY
-
-### Protect
-
-### Detect
-
-### Deploy
-
-### Eliminate
-
-### Remember
-
-## MEDICINE
-
-### Sign and Symptom
-
-Pharyngitis.
-Sore throat.
-Laryngitis.
-Hoarseness.
-
-Bronchitis.
-
-Bronchiolitis.
-
-Pneumonia.
-
-Conjunctivitis.
-
-Pharyngoconjunctival fever.
-Systemic in immune compromised people.
-
-Gastrointernal disease.
-
-### Diagnosis
-
 50+ serotypes.
 
-### Therapy
+## Life
 
-### Prevention
+Commensal in the tonsil and the adenoid glands.
 
-### Epidemiology
+Replicates in the nucleus.
 
-Does not have seasonality.
+2 broken viral dsDNA genomes can combine and rescue each other.
 
-## Gallery
+Commonly infect:
+- Nasopharynx
+- Oropharynx
+- Larynx
+- Bronchus
+- Bronchiole
 
-![](2.jpeg)
+Can spread deeper than epithelium, by exiting in the basal surface and by disrupting the tight junctions, and infect all tissues, such as hepatitis.
 
-![](3.jpeg)
+Fecal-oral transmission.
 
-![](4.jpeg)
+## Epidemiology
+
+Rare respiratory virus that does not have seasonality.
+
+# ^
+
+Fever
+
+Conjunctivitis
+
+Pharyngitis
+(Common)
+
+Laryngitis
+(Common)
+
+Bronchitis
+
+Bronchiolitis
+
+Pneumonia
+
+Viremia
+
+Hepatitis
+
+# v
+
+Liver
+
+Gasatrointestinal Tract

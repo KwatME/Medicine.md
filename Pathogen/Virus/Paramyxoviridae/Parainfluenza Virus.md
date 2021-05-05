@@ -1,112 +1,61 @@
 # "
 
-## Profile Picture
-
-![](1.jpeg)
-
-## Summary
-
 ## Name
 
-Human parainfluenza virus [1-4].
+The official name is Human parainfluenza virus.
 
-## PATHOGEN
+## Feature
 
-### Evolve
+Paramyxoviridae features.
 
--ssRNA (carry viral RNA polymerase).
-Enveloped.
+4 major serotypes, each considered as separate viruses with numbered suffix.
+Human parainfluenza virus 1 typically causes croup.
+
+Not related to influenza virus but has hemagglutinin and neuraminidase.
+
+Serotypes with the most efficient replication and transcription have genome length divisible by 6, a mystery.
+
+## Life
+
+Can stay for hours in the environment.
 
 Human specific.
-
-4 major serotypes: considered as separate viruses; type 1 is more in croup.
-
-Buds out from the apical surface, without killing the cell.
-Less viremia.
-Increases replication, mucus cells, debris, and swelling down to trachea entrance (Steeple sign in children).
-
-Family Paramyxoviridae.
-Not related to influenza virus but with respiratory syncytial virus and metapneumovirus.
-Mumps and Measles.
-
-### Enter
-
-Reinfection is common because it buds from the apical surface.
-
-### Colonize
-
-Stays few hours in the environmnt.
-
-Trachea.
-Bronchus.
-Alveolus (common).
-
-### Persist
-
-Hemagglutinin-neuraminidase.
-Hemagglutinin clumps red blood cells.
-
-Most efficient in terms of replication and transcription have genome nucleotide total that is divisible by the number 6.
-
-### Replicate
-
-### Exit
-
-## IMMUNITY
-
-### Protect
-
-### Detect
-
-### Deploy
-
-Antibody.
-
-### Eliminate
-
-### Remember
-
-## MEDICINE
-
-### Sign and Symptom
-
-Pharyngitis.
-Sore throat.
-Laryngitis.
-Hoarseness.
-
-Pneumonia.
-
-Laryngotracheobronchitis.
-Croup (laryngotracheobronchitis) (problem in children youner than 2 years of age).
-
-Bronchitis.
-
-### Diagnosis
-
-Culture.
-ELIZA.
-PCR.
-IgG.
+Infects:
+- Trachea
+- Bronchus
+- Alveolus (common)
 
 Infected cell has larger cytoplasm.
 
-### Therapy
+Buds out from the apical surface, without killing the cell.
+Less viremia.
 
-Corticosteroid and nebulizer for croup.
+Increases host cell replication, increating mucus cells, debris, and swelling, which descends to trachea.
 
-### Prevention
+Reinfection is common because it buds from the apical surface, without being seen by the immune cells and not triggering complete immunity.
+
+## Epidemiology
+
+Respiratory syncytial virus and parainfluenza virus are top 2 causes of respiratory hospitalization in children under 5 years old.
+
+## Therapy
 
 No vaccine.
 
-### Epidemiology
+Diagnose with culture, antigen, nucleic acid, or IgG
 
-Respiratory syncytial virus and parainfluenza virus are the #1 and #2 cause of respiratory hospitalization in children under 5 years old.
+Corticosteroid and nebulizer for croup.
 
-## Gallery
+# ^
 
-![](2.jpeg)
+Pharyngitis
 
-![](3.jpeg)
+Laryngitis
 
-![](4.jpeg)
+Croup
+(Laryngotracheobronchitis; Common; Steeple sign in children younger than 2)
+
+Bronchitis
+(Common)
+
+Pneumonia

@@ -1,87 +1,34 @@
 # "
 
-## Profile Picture
-
-![](1.jpeg)
-
-## Summary
-
 ## Name
 
 Rhino means nose.
 
-## PATHOGEN
-
-### Evolve
-
-No envelop; more resistant to desiccation and detergent.
+## Feature
 
 PicoRNAviridae family.
-Acid breaks capsid however.
-Related to poliovirus, enteroviruses, coxackievirus, and hepatitis virus A.
-But all of these viruses can survive the acidic stomach.
++ssRNA genome in a capsid (sensitive to acid) without an envelop (sensitive to dessication and detergent).
+Non-enveloped viruses lyse the host cell when exiting.
+100+ serotypes.
 
-### Enter
+Related to poliovirus, enteroviruses, coxackievirus, and hepatitis virus A, but all of these can survive the acidic stomach.
 
-### Colonize
+## Life
 
-Nasal cavity.
-
-### Persist
-
-Turns off host transcription.
-
-### Replicate
-
-### Exit
-
-## IMMUNITY
-
-### Protect
-
-### Detect
-
-### Deploy
-
-### Eliminate
-
-### Remember
-
-## MEDICINE
-
-### Sign and Symptom
-
-Rhinitis.
-Common cold.
-
-Pneumonia (most common cause of community acquired viral pneumonia).
-
-Vomit.
-Diarrhea.
-Fever.
-
-### Diagnosis
-
-More than 100 serotypes.
-
-### Therapy
-
-Rehydration.
-
-### Prevention
-
-### Epidemiology
-
-35% (the most common) of upper respiratory infection.
-
-## Gallery
-
-![](2.jpeg)
-
-![](3.jpeg)
-
-![](4.jpeg)
+Commensal in the nasal cavity.
+Upon infecting a cell, incubates for 2-3 days.
+Turns off the host cell transcription to monopolize the translation ingredients.
 
 # ^
 
 Rhinitis
+(The most common (35%) upper respiratory tract infection)
+
+Fever
+
+Vomit
+
+Diarrhea
+
+Pneumonia
+(The most common cause of the community acquired viral pneumonia)

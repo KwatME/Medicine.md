@@ -1,40 +1,18 @@
 # "
 
-## Profile Picture
-
-![](1.jpeg)
-
-## Summary
-
 ## Name
 
-Streptos means chain (this one has longer chain than Streptococcus pneumonia).
+Streptos means chain.
 Coccos means berry.
 Pyo means pus.
 Genes means making.
 
-## PATHOGEN
+## Feature
 
-### Evolve
-
-Streptococcus species are classified based on hemolytic properties.
-
-Hemolytic A can convert Fe2+ to Fe3+, breaking hemoglobin into biliverdin; green colony on agar (Streptococcus pneumoniae and oral commensals).
-Hemolytic B uses streptolysin t odestroy red blood cells; clear area on agar.
-Hemolytic G causes no hemolysis.
-
-Hemolytic B is further classified by Lancefield (due to capsular glyco molecules).
-Streptococcus pyogenes is the group A Streptococcus.
-Gram+.
 Diplococcus.
+Chain is longer than Streptococcus pneumonia.
 
-Most streptococci are oxidase-negative and catalase-negative, and many are facultative anaerobes (capable of growth both aerobically and anaerobically).
-Oxidase test checks if a bacteria produces cytochrome c oxidases which enables using of O2 for energy production.
-
-
-### Enter
-
-### Colonize
+## Life
 
 Nasopharynx.
 Mucosal associated lymphoid tissue.
@@ -51,8 +29,6 @@ Like lymphatic tissues including Walldeyer's Ring.
 Nasopharynx has good ventilation and blood and less anaerobic competitors.
 
 This remarkable microbe could provide a Master class to other bacteria on how to evade host complement deposition and activation, impede phagocyte recruitment and activation, resist killing by host antimicrobial peptides and reactive oxygen species, escape the DNA nets thrown out by neutrophils, and kill phagocytic host cells by punching holes in their cytoplasmic membrane.
-
-### Persist
 
 Makes a lot of weapons.
 
@@ -74,35 +50,38 @@ Hyaluronidase degrades hyaluronic acid in connective tissue.
 DNAase.
 Streptokinase activates plasmin, which breaks thrombus; used as thrombolytic therapeutic.
 
-### Replicate
-
 Single axis replication results in a chain.
 
-### Exit
+## Therapy
 
-## IMMUNITY
+## Epidemiology
 
-### Protect
+Rheumatic fever is rare in developed countries but the most common cause of chronic heart disease called rhuematic heart disease in the developing countries. 
+Rheumatic fever 50% of the time results in joint symptoms and 30% Syndenham chorea.
+
+# ^
+
+Pharyngitis
+
+Skin and Soft Tissue Infection
+
+Scarlet Fever
+
+Toxic Shock Syndrome
+
+Rheumatic Fever
+
+Post Streptococcal Glomerulonephritis
+
+
+## Immunity
 
 Antibody against M protein.
-Antibody mediated phagocytosis.
 M protein mimics host protein, and the antibodies can be autoimmune.
 
+Antibody mediated phagocytosis.
+
 Antibody against streptolysin O.
-
-### Detect
-
-### Deploy
-
-Antibody agaisnt M protein
-
-### Eliminate
-
-### Remember
-
-## MEDICINE
-
-### Sign and Symptom
 
 Red strawberry tongue.
 
@@ -177,29 +156,7 @@ Viral sympts include: cough ,rihorra, horseness, oral ulcers, conjucticits.
 
 Throad culture rapid antigen detection test is a gold stanfrd dtst.
 
-### Therapy
 
 Penicillin, amoxicillin,
 
 Surgery.
-
-### Prevention
-
-### Epidemiology
-
-Acute rheumatic fever is rare in developed countries. 
-In developing countries, it is the most common cause of a chronic heart disease (rheumatic heart disease).
-Joint symptoms in over 50%.
-Syndenham chorea in 30%.
-
-In non-US, throat to rhuematic heart disease is the most common heart disease cause.
-
-## Gallery
-
-![](2.jpeg)
-
-![](3.jpeg)
-
-![](4.jpeg)
-
-https://www.cdc.gov/groupastrep/diseases-hcp/index.html
