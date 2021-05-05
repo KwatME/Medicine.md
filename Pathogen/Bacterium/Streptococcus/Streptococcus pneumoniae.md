@@ -8,6 +8,9 @@
 
 ## Name
 
+90 serotypes based on the capsule.
+But C polysaccharide present on all capsules is used for antigen test.
+
 Strepto means chain.
 Pneumonia means lung inflammation.
 

@@ -56,3 +56,8 @@ Two year old: asymptomatic.
 ![](3.jpeg)
 
 ![](4.jpeg)
+
+# ^
+
+Pneumonia
+(In immunocompromised people)

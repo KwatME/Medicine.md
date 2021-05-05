@@ -5,6 +5,7 @@ The typical or community-acquired pneumonia.
 Pneumonia with radiograph showing lobar opacity.
 
 Typically infected with Streptococcus pneumonia or Haemophilus influenza.
+Mycoplasma, Chlamydophila, and Legionella can cause.
 
 Onset is acute.
 Sputum culture identifies the microbe, which is often penicillin sensitive, and contains neutrophils.

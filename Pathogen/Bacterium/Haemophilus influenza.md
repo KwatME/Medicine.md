@@ -16,7 +16,7 @@ Bacterial influenza.
 
 Commensal in the nasal cavity.
 Gram-!
-Rod.
+Coccobacillus.
 
 Encapsulated (a, b, c, d, e, and f) = typable.
 
