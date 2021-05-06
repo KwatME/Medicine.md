@@ -135,10 +135,4 @@ Secondary bacterial infection has 5-10% fatality.
 Infects up to 1/5 population per year, targetting the young, the old, and the weak.
 Up to 0.5 million death per year.
 
-## Gallery
-
-![](2.jpeg)
-
-![](3.jpeg)
-
-![](4.jpeg)
+Second most common cause of the community acquired pneumonia.

@@ -1,6 +1,6 @@
 # "
 
-The typical bacterial pneumonia with radiograph showing lobar opacity.
+The typical and community acquired pneumonia with radiograph showing lobar opacity.
 
 - Streptococcus pneumonia
 - Haemophilus influenza

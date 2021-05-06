@@ -31,4 +31,4 @@ Vomit
 Diarrhea
 
 Pneumonia
-(The most common cause of the community acquired viral pneumonia)
+(The most common cause of the community acquired pneumonia)
