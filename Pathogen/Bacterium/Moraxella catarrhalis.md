@@ -1,11 +1,15 @@
 # "
 
+## Name
+
 ## Feature
 
 Gram- (like Haemophilus influenza).
 Diplococcus (like Streptococcus pneumonia).
 
 Unencapsulated.
+
+Trimetric autotransporter adhesins.
 
 Oxidase.
 Catalase.
@@ -41,8 +45,14 @@ Sinusitis
 Otitis Media
 (20% of)
 
-Bacteremia
-(Rare)
+Conjunctivitis.
 
 Chronic Obstructive Pulmonary Disease Exacerbation
 (10% of)
+
+Bacteremia
+(Rare)
+
+Central Nervous System Infection
+
+Arthritis
