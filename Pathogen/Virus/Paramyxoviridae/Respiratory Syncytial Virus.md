@@ -6,14 +6,14 @@ Syncytio refers to fused infected cells in vitro.
 
 ## Feature
 
-Paramyxoviridae features.
+Non-segmented genome.
 Variable shapes including filamentous. 
 
 G protein attachs to the respiratory epithelial cells.
 G protein is heavily glycosylated making antibody production difficult.
 Secreted G proteins competitively inhibit antibodies.
 
-F protein fuses the viral envelop and an epithelial cell or epithelial cells with each other.
+F protein fuses the viral envelop and an epithelial cell or epithelial cells with each other, enabling transmission.
 
 One serotype.
 
@@ -46,7 +46,7 @@ Common cold in adults and more serious disease in infants, yuong adults, elderly
 
 Children get it by 2.
 
-Leading cause of bronchiolitis and pneumonia in infants and children under 5.
+Leading cause of bronchiolitis and pneumonia in infants and children under 5 world wide.
 
 ## Therapy
 

@@ -36,6 +36,8 @@ The golden color is from the carotenoid pigmnet, which resists oxidation.
 Bubbles in a catalase test.
 Forms abcess with neutrophils.
 
+Bronchiectasis
+
 ### Persist
 
 Attaches to peptidoglycan (commonly found on implants), which is part of collagen, fibrinogen, and elastin.

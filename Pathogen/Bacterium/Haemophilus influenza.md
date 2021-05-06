@@ -1,112 +1,86 @@
 # "
 
-## Profile Picture
-
-![](1.jpeg)
-
-## Summary
-
-Bacterial influenza.
-
 ## Name
-
-## PATHOGEN
-
-### Evolve
-
-Commensal in the nasal cavity.
-Gram-!
-Coccobacillus.
-
-Encapsulated (a, b, c, d, e, and f) = typable.
-
-Epiglottitis (25%, followed by parainfluenza virus, Streptococcus pneumonia, and Streptococcus pyogenes).
-Immediate hospitalization.
-
-Unencapsulated = nontypable because of lack of capsule.
-Less invasive.
-Inflammatory response.
-Otitis media, conjunctivitis, sinusitis.
-
-### Enter
-
-Opportunistic.
-
-Trimeric autotransporter adhesins (Gram-) to adhere.
-
-### Colonize
-
-Culture requires special ingradients.
-
-### Persist
-
-IgAse.
-
-B lactamase and modified penincillin binding protein.
-
-Transformation, which helps spread recA gene that helps surviving oxidative stress.
-
-### Replicate
-
-### Exit
-
-## IMMUNITY
-
-### Protect
-
-### Detect
-
-### Deploy
-
-### Eliminate
-
-### Remember
-
-## MEDICINE
-
-### Sign and Symptom
-
-Typical pneumonia.
-Otitis.
-Mastoiditis!
-Cellulitis.
-Jagular thrombophlebitis.
-Central nervous system infection.
-
-Upper to lower tract.
-
-Sinusitis and acute otitis media (33-66% Streptococcus penumonia, 20% this, 5% Staphylococcus aureus)
-
-### Diagnosis
-
-Culture from sterile sites.
-Grow in the a hemolytic zone of Staphylococcus aureus.
-Catalase positive and oxidase positive.
-
-### Therapy
-
-B lactams (amoxicillin and ceftriaxone).
-3rd generation cephalosporin.
-
-### Prevention
-
-Hib vaccine works against capsulated only.
-Expensive; 42% in developing countries and 8% in least developed countries.
-
-### Epidemiology
-
-Only human.
-
-Infants and young children.
 
 Discovered during 1892 influenza pandemic.
 
+## Feature
+
+Gram-.
+Coccobacillus.
+Encapsulated, which are typed by capsular glycoproteins (a, b, c, d, e, and f), or unencapsulated.
+
+Nonmotile.
+
+Catalase positive.
+Oxidase positive.
+
+Lipopolysaccharide.
+IgAse.
+B lactamase and modified penincillin binding protein.
+
+## Life
+
+Found in human.
+Opportunistic commensal bacteria in the nasal cavity.
+Competes with Streptococcus pneumonia.
+
+Type b causes most of the disease.
+
+Adhere using trimeric autotransporter adhesins, which is common in Gram-.
+
+Less invasive but highly inflammatory due to lipopolysacharide.
+
+Transformation, which helps spread recA gene that helps surviving oxidative stress.
+
+## Epidemiology
+
+Commonly infects infants and young children.
+
 1st free-living organism to have its genome sequenced by Craig Venter team.
 
-## Gallery
+## Medicine
 
-![](2.jpeg)
+Elderly are more susceptible.
 
-![](3.jpeg)
+Diagnose by culture.
+Culture requires NAD and hemin, which is found in the a hemolytic zone of Staphylococcus aureus.
+PCR.
 
-![](4.jpeg)
+First lines include b lactams (amoxicillin and ceftriaxone) and 3rd generation cephalosporin.
+But 30% have b lactamase.
+Alternatives include macrolides, tetracyclines, and fluoroquinolones.
+
+Hib vaccine works against capsulated type b only.
+The vaccine is expensive and used 42% in developing countries and 8% in least developed countries.
+
+# ^
+
+Otitis Media
+
+Mastoiditis
+
+Conjunctivitis
+
+Rhinitis
+
+Sinusitis
+(Caused 33-66% by Streptococcus penumonia, 20% by Haemophilus influenza, and 5% by Staphylococcus aureus)
+
+Laryngitis
+
+Pharyngitis
+
+Epiglottitis
+(25% of; Parainfluenza virus, Streptococcus pneumonia, and Streptococcus pyogenes infections are the next common causes)
+
+Pneumonia.Community Acquired.Bacterial
+
+Cellulitis
+
+Jagular Thrombophlebitis
+
+Meningitis
+(Was the leading cause in children <5 before vaccination was available)
+
+Immediate hospitalization

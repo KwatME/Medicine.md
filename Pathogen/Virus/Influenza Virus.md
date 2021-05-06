@@ -1,5 +1,8 @@
 # "
 
+Women in 3rd trimester can develop complications.
+Highly contagious.
+
 ## Profile Picture
 
 ![](1.jpeg)

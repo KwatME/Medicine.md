@@ -62,7 +62,7 @@ Epidemic every 3-7 years.
 
 ## Medicine
 
-Radiograph shows bilateral patchy opacities of the lower lobes.
+Radiograph shows bilateral patchy, reticular, fine opacities.
 
 Test with serum cold agglutination.
 Confirm with PCR.
@@ -89,7 +89,7 @@ Bronchitis
 Cough
 (Mildly productive)
 
-Pneumonia.Community Acquired
+Pneumonia.Community Acquired.Atypical
 (40% of; Next to Streptococcus pneumonia)
 
 Pneumonia.Atypical

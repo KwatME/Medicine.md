@@ -1,7 +1,7 @@
 # "
 
-The typical community acquired pneumonia.
 More common than bacterial.
+Not lobar.
 
 - Respiratory syncytial virus
 - Adenovirus
