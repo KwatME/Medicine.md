@@ -1,130 +1,98 @@
 # "
 
-## Profile Picture
-
-![](1.jpeg)
-
-## Summary
-
-## Name
-
-Staphylococcus means grape like.
+Staphylococcus means grapes.
 Aureus means golden.
 
-B (with a toxi) or g hemolytic.
+It is a Gram+ bacteria that lives on the skins, upper respiratory tract, and lower reproductive tract of 30% of people.
+Methicillin resistant type lives in 2% of people.
 
-## PATHOGEN
+20% of its genome is dynamic, being transferred by bacteriophages and other mechanisms to others.
+So, each bacterium is vastly different from another and a population heterogeneous.
+Heterogeneous individuals simultaneously infect and cause diseases.
 
-### Evolve
+It can not travel, but can attach to peptidoglycan, which is common in collagen, fibrinogen, and elastin.
 
-Gram+.
-Commensal (30% regular, 2% MRSA) in upper respiratory tract, skin, loewr reproductive tract of women.
-Facultative anaerobe.
-Nonmotile.
-20% genome is dynamic, undergoes horizontal gene transfer by bacteriophage and other ways.
-There is methicillin resistant staphylococcus aureus.
+It walls itself with biofilm.
+The biofilm often contains fungus Candida albicans.
+It also has coagulase, which activates fibrinogen into fibrin to form thrombotic walls.
 
-Heterogeneous; heterogeneous simultaneous infection.
+It can make energy by oxidation or fermentation.
 
-Polymorphism in glucocorticoid receptor is associated with commensal inhabitaiton.
+It forms an abcess with neutrophils.
+Its golden color is from the carotenoid pigmnet, which resists oxidation. 
+Its catalaze disables oxidizing H2O2 into H2O and O2.
+Its protein A binds to the antibody FC regions to inhibit opsonization.
 
-### Enter
+Its toxic shock syndrome toxin 1 nonspecifically binds to the T cells and activates immune cells.
+Overreactive immune system results in an inadequate immunity against it. 
 
-### Colonize
+Its exofoliative toxin breaks epidermis to help spreading.
+Its hyaluronidase breaks down hyaluronic acid found in connective tissues.
+Its staphylokinase completely lyses red blood cells (making it being classified as a B hemolytic microbe).
+Its DNAse breaks down the neutrophil DNA traps.
 
-The golden color is from the carotenoid pigmnet, which resists oxidation.
-Bubbles in a catalase test.
-Forms abcess with neutrophils.
+It has glucocorticoid receptors.
+
+Its diagnosed by blood or stool culture.
+Its culture should be Gram+, grape like, catalase+, coagulase+, and DNAse+.
+
+It is used to be treated with simpler cell wall inhibitors (B lactams) such as penicillin, which inhibits PBP.
+But some acquired penicillnase, which inactivates penicillin.
+
+Penicillnase-resistant cell walla inhibitors like nafcillin were developed and are used today.
+
+But then B lactam resistant Staphylococcus aureus (MRSA) emerged.
+MRSA has mecA gene that makes PBP2a, which binds less with B lactams.
+Methicillin is a B lactam used to test for this resistance.
+For treating MRSA, vancomycin, which disrupts D-Alanine-D-Alanine crosslinking in the cell wall synthesis, is used.
+
+However, recently, some acquired the ability to crosslink with D-Alanine-D-Lactate, which escapes binding to vancomycin.
+
+Bacteriophages against it are being devleoped.
+
+There is no vaccine.
+Implants should be monitored for infection.
+
+# ^
+
+Pimple
+
+Impetigo
+
+Boil
+
+Carbuncle
+
+Cellulitis
+
+Folliculitis
+
+Scaled Skin Syndrome
+
+Abscess
+
+Atopic Dermatitis
+
+Sinusitis
 
 Bronchiectasis
 
-### Persist
+Pneumonia
 
-Attaches to peptidoglycan (commonly found on implants), which is part of collagen, fibrinogen, and elastin.
-Coagulase activates fibrinogen into fibrin, resulting in thrombi around the bacteria to wall immune cells.
-Protein A binds to the antibody FC regions to inhibit phagocytosis.
-Capsule biofilm walls immune cells.
-Carotenoid pigment is antioxidant.
+Meningitis
 
-Hyaluronidase breaks down hyaluronic acid.
-Deoxyribonuclease.
+Endocarditis
+(Common cause of)
 
-Toxic shock syndrome toxin 1 binds nonspecifically with T cell receptors and activate them, resulting in sepsis.
-Exofoliative toxin breaks epidermis.
+Toxic Shock Syndrome
 
-Penicillnase.
-Methicillin is penicillnase resistant.
-But.
-Mecithillin resistant Staphylococcus aureus has mecA gene that makes PBP2a, which bind less with b lactams.
+Bacteremia
 
-### Replicate
+Sepsis
 
-### Exit
+Osteomyelitis
+(The most common cause of)
 
-## IMMUNITY
+Septic Arthritis
 
-### Protect
-
-### Detect
-
-### Deploy
-
-### Eliminate
-
-### Remember
-
-## MEDICINE
-
-### Sign and Symptom
-
-Skin: pimples, impetigo, boils, carbuncles, cellulitis, folliculitis, scaled skin syndrome, and abscess.
-
-Common in atopic dermatitis (exzema).
-
-Respiratory tract: sinusitis, pneumonia
-
-Systemic (high fatality rate): meningitis, (common cause of) endocarditis, toxic shock syndrome, bacteremia, and sepsis.
-
-MSK: (most common cause of) osteomyelitis, septic arthritis
-
-Implant infection.
-
-Toxin causes food poisoning.
-
-Biofilm is coinhabited with Candida albicans.
-
-### Diagnosis
-
-Blood and stool culture.
-
-Catalase positive (all Staphylococcus).
-1930s coagulase; (Staphylococcu aureus)
-DNAse.
-
-### Therapy
-
-Nafcillin is a b lactam, which disrupts transpeptidase, which builds peptidoglycans.
-Vancomycin disrupts cross linking peptidoglycans.
-Vancomycin is more effective against MRSA because their transpeptidase binds poorly with b lactams.
-
-Reserch: bacteriophage.
-
-### Prevention
-
-Monitor infections associated with implants.
-No vaccine.
-
-
-### Epidemiology
-
-## Gallery
-
-![](2.jpeg)
-
-![](3.jpeg)
-
-![](4.jpeg)
-
-# +
-
-Staphylokinase
+Implant Infection

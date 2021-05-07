@@ -1,30 +1,16 @@
 # "
 
-## Profile Picture
-
-![](1.jpeg)
-
-## Summary
-
-## Name
-
-## PATHOGEN
-
-### Evolve
+## Epidemiology
 
 Koch discovered the pathogen to cause wasting tuberculosis in 1882.
 
-Existed before human.
-
-Gram+ with thinner peptidoglycan surrounded by arabinogalactan layer that extends various lipids including mycolic acid, which is a long fatty acid of arabinogalactan.
-Resistant to drying and chemical disinfectants.
-
-Lipid proteins extend from the cytosol to the outer lipid layer.
+## Feature
 
 First branch out of the Gram+ phylogenetic gree.
 
-(Mycoplasma is another Gram+ with unique cell wall - it has no cell wall.)
-
+Gram+ with thinner peptidoglycan surrounded by arabinogalactan layer that extends various lipids including mycolic acid, which is a long fatty acid of arabinogalactan.
+Resistant to drying and chemical disinfectants.
+Lipid proteins extend from the cytosol to the outer lipid layer.
 Less permeable so uses pores to transport things.
 Not stainable with Gram staining but other lipid soluble stains including carbol fuchsin.
 Stain with carbol fuchsin and then wash away with acid or alcohol; the entire process is called acid fast staining.
@@ -32,43 +18,26 @@ Stain with carbol fuchsin and then wash away with acid or alcohol; the entire pr
 30-60% dry weight is lipid.
 33% genome is for working with lipids.
 
-Lipids are virulent factors.
-- Stimulate granuloma formation.
+Lipids are the virulent factors.
+- Stimulate granuloma formation
 - Evade immune recognition
 - Prevent phagosome maturation
 - Inhibit dendritic cell maturation and T cell activation; significantly delays the process
-- Bind to monocytes
-
-There are 120 mycobacteria, and most live in the environment and don't infect human.
-They live at the interface between water and air, where lipids would be.
-Metabolize lipids.
-
-Mycobacteria tuberculosis is human specific and humans are the reserviors.
-
-Some environmental mycobacteria opportunistically infect human but are not contagious.
-Mycobacteria tuberculosis is adapted to human.
-Mycobacteria bovis is adapted to cattle, and via milk and meat, transmits to human.
-Mycobacteria avium complex.
-Mycobacteria leprae infects peripheral nervous system.
-
-Non-tuberculosis Mycobacteria (atypical Mycobacteria) live in the environment and infect cattles and humans with weaker immune system.
-
-Can digest oil.
-
-### Enter
-
-Transmits via air droplets, which are 1-5um in diameter (liquid evaporates leaving dry bacteria which resists drying and floats in the air for 6 huors.)
-
-### Colonize
 
 Aerobic nonmotile rod.
+
+## Life
+
+Human specific and humans are the reserviors.
+
+Transmits via air droplets, which are 1-5um in diameter (liquid evaporates leaving dry bacteria which resists drying and floats in the air for 6 huors.)
 
 Alveolar macrophage eats it.
 Dormant for years.
 
-Calcified granuloma indicates all bacteria are killed
+Calcified granuloma indicates all bacteria are killed.
 
-Cavities made by spilling lytic things are aerobic space good for replication.
+Cavities made by spilled lytic things make a good aerobic space for replication.
 
 ### Persist
 
@@ -214,11 +183,3 @@ White plague.
 Infect 1/3 population.
 Kills more people than other pathogens.
 95% of deaths are in poor places.
-
-## Gallery
-
-![](2.jpeg)
-
-![](3.jpeg)
-
-![](4.jpeg)

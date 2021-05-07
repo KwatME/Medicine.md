@@ -2,7 +2,7 @@
 
 ## Medicine
 
-Tetracycline or doxycycline.
+First line: tetracycline or doxycycline.
 
 # ^
 
