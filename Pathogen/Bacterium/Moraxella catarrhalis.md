@@ -2,39 +2,44 @@
 
 ## Name
 
-## Feature
+Moraxella is named after Morax, an ophthalmologist.
+Catarrhalis means to flow down, refering to the discharges from the nose and eyes in its infection.
 
-Gram- (like Haemophilus influenza).
-Diplococcus (like Streptococcus pneumonia).
+It is a large Gram- diplococcus that lives in the nasopharynx.
 
-Unencapsulated.
+It is an aerobe, so it has makes oxidase.
 
-Trimetric autotransporter adhesins.
+Unlike the other neighboring and common commensal pathogens (Streptococcus pneumonia and Haemophilus influenza), it does not have capsule.
 
-Oxidase.
-Catalase.
-DNAse.
-B lactamase.
+Like Staphylococcus aureus, it makes catalase and DNAse.
+
+It is not hemolytic.
+
+Like other Gram- microbes, it uses trimetric autotransporter adhesins to attach to an epithelial cell and makes B lactamase.
 
 ## Life
 
-Commensal in nasopharynx.
-Found inside respiratory epithelial cell, type 2 alveolar cell, and pharyngeal lymphoid tissue.
+It can export vesicles containing B lactamase, which helps bacteria, even those without B lactamase, resist B lactams.
+
+It is found inside respiratory epithelial cell, type 2 alveolar cell, and pharyngeal lymphoid tissue.
 
 ## Epidemiology
 
-Prevelance decreases with age.
-
-Increased prevalence after the preactice of vaccine for Streptococcus pneumonia, its competitior in the nasopharynx.
+Its prevalence increased as the vaccine for Streptococcus pneumonia was adopted.
+Since 1990s, it has been considered an important pathogen.
+It infects more younger people.
 
 ## Medicine
 
-Milder than Streptococcus pneumonia.
+Symptoms are milder than Streptococcus pneumonia.
 
-Amoxicillin-clavulanate.
-Trimethoprim-sulfamethoxazole.
-Tetracyclines.
-Fluoroquinolone.
+Treatments include:
+- Amoxicillin-clavulanate
+- Trimethoprim-sulfamethoxazole
+- Tetracyclines
+- Fluoroquinolone
+
+There is no available vaccine yet.
 
 # ^
 
@@ -47,12 +52,24 @@ Otitis Media
 
 Conjunctivitis.
 
+Laryngitis
+
+Bronchitis
+
+Pneumonia.Broncho
+
 Chronic Obstructive Pulmonary Disease Exacerbation
 (10% of)
 
 Bacteremia
-(Rare)
+(Rare; 20% death rate)
 
-Central Nervous System Infection
+Meningitis
 
-Arthritis
+Urethritis
+
+Sepsis
+
+Septic Arthritis
+
+Endocarditis

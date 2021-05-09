@@ -15,18 +15,6 @@ Shiga-toxigenic:
 - Shiga toxin (not related to shigella), which causes systemic disese including hemolytic uremic syndrome.
 - Antibiotics stress them and they release more shiga toxin.
 
-## Profile Picture
-
-![](1.jpeg)
-
-## Summary
-
-## Name
-
-## PATHOGEN
-
-### Evolve
-
 ### Enter
 
 Gram- rod.
@@ -48,25 +36,7 @@ Gene transfer.
 
 Lipopolysaccharide.
 
-### Replicate
-
-### Exit
-
-## IMMUNITY
-
-### Protect
-
-### Detect
-
-### Deploy
-
-### Eliminate
-
-### Remember
-
-## MEDICINE
-
-### Sign and Symptom
+## Medicine
 
 Polyuria.
 Urinary tract infection: cystitis, pyelonephritis, and urosepsis.
@@ -75,17 +45,3 @@ Central nervous system infection.
 ### Diagnosis
 
 Urine analysis: hazy, blood, nitrite, leukocyte esterase, white blood cells, and bacteria
-
-### Therapy
-
-### Prevention
-
-### Epidemiology
-
-## Gallery
-
-![](2.jpeg)
-
-![](3.jpeg)
-
-![](4.jpeg)
