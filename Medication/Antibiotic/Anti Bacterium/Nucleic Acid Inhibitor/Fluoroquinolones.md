@@ -1,7 +1,16 @@
 # "
 
-Inhibits type 2 topoisomerases (found in Gram+), DNA gyrase (found in Gram-), and topoisomerase 4 (found in Gram+).
-Resulting DNA problems leads to cell death.
+Fluoroquinolone.
+
+Inhibits type 2 topoisomerases and topoisomerase 4 (both targets of Gram+) and DNA gyrase (target of Gram-).
+
 Bactericidal.
 
+Common use:
+- Community acquired pneumonia
+- Urinary tract infection
+- Not Neisseria gonorrhea
+
 -oxacin.
+
+Ciprofloxacin is one of the most popular antibiotics, and is mainly used against Gram-.

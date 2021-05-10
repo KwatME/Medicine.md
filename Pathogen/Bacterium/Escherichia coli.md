@@ -1,39 +1,64 @@
 # "
 
 Gram- rod.
+Commensal in the gastrointestinal tract.
+Horizontal gene transfer.
+Lipopolysaccharide.
 
-Commensal in intestine.
+Exfoliating toxin.
+B lactamase.
 
 Intestianl and extraintestinal presentation.
 
-Lipopolysaccharide.
-Pili attach.
-Toxin to exfoliate.
-Intracellular.
-B lactamase.
+Fecal-oral transmission.
 
-Gene transfer.
+## Enterotoxic:
 
-Uro-pathogenic:
-- Pili attach to the urinary epithelial cells.
+Has Vibrio cholera's AB toxin
 
-Enterotoxic:
-- Has Vibrio cholera's AB toxin
-- Traveler's diarrhea
+Traveler's diarrhea
 
-Enteropathogenic:
-- Needle inserts into a enterocyte and remodels the cytoplasm and damages the tight junction.
+## Enteropathogenic:
 
-Shiga-toxigenic:
-- Cow feces
-- Shiga toxin (not related to shigella), which causes systemic disese including hemolytic uremic syndrome.
-- Antibiotics stress them and they release more shiga toxin.
+Needle inserts into a enterocyte and remodels the cytoplasm and damages the tight junction.
 
-### Diagnosis
+## Shiga-toxigenic:
 
-Urine analysis: hazy, blood, nitrite, leukocyte esterase, white blood cells, and bacteria.
+Cow feces
+
+Shiga toxin (not related to shigella), which causes systemic disese including hemolytic uremic syndrome.
+
+Antibiotics stress them and they release more shiga toxin.
+
+## Uro-pathogenic:
+
+Gastrointestinal to urinary tract infection.
+More common in females because of their shorter urethra.
+Urinary flow clears them.
+Anatomic abnormalities and sexual intercourse (honeymoon cystitis) are risk factors.
+
+Pili (fimbria) attach to the urinary tract epithelial cells.
+
+Attachment results in getting inside the cell.
+
+Replicates intracellularly and rapidly, bulging and bursting the infected cell.
+Some may hide intracellularly and dormantly and result in a recurrent infection.
+
+Neutrophils come and infected cells come off.
+Urine analysis: hazy (cells and debris), blood (inflammation), nitrite (bacteria metabolite), leukocyte esterase (while blood cell especially neutrophil protein), white blood cells, and bacteria.
+
+Empirical treatment:
+- Amoxicillin (old practice)
+- Trimethoprim-sulfamethoxazole
+- Nitrofurantoin
+- Phosphomycin
+- Fluoroquinolone
+- Ciprofloxacin
+- B lactams
 
 # ^
+
+Diarrhea
 
 Cystitis
 (The most common cause of)
@@ -41,6 +66,8 @@ Cystitis
 Pyelonephritis
 (The most common cause of)
 
-Sepsis
+Urosepsis
+
+Hemolytic Uremic Syndrome
 
 Meningitis

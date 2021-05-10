@@ -24,22 +24,30 @@ It has multiple adhesins.
 It can make energy by oxidation or fermentation.
 
 It forms an abcess with neutrophils.
-Its golden color is from the carotenoid pigmnet (which makes carrots red), which resists oxidation. 
+Its golden color is from the carotenoid pigmnet (which makes carrots red) Staphyloxanthin, which resists oxidation. 
 Its catalaze disables oxidizing H2O2 into H2O and O2.
 Its protein A binds to the antibody FC regions to inhibit opsonization.
 
 Its toxic shock syndrome toxin 1 nonspecifically links the T cell receptors with MHC2s, over activating the immune system.
 Overreactive immune system results in an inadequate immunity against it. 
 
+Its enterotoxin causes food poisoning.
+
 Its exofoliative toxin breaks epidermis to help spreading.
 Its hyaluronidase breaks down hyaluronic acid found in connective tissues.
-Its hemolysin can completely lyses red blood cells (making it being classified as a G or B hemolytic microbe).
+Its hemolysins can completely lyses red blood cells (making it being classified as a G or B hemolytic microbe).
+Its leukocidin also makes pore.
 Its DNAse breaks down the neutrophil DNA traps.
+It also has lipases, phospholipases, and proteases.
 
 It has glucocorticoid receptors.
 
 Its diagnosed by blood or stool culture.
 Its culture should be Gram+, grape like, catalase+, coagulase+, and DNAse+.
+
+Iron sequestration.
+
+
 
 It is used to be treated with simpler cell wall inhibitors (B lactams) such as penicillin, which inhibits PBP.
 But some acquired penicillnase, which inactivates penicillin.
