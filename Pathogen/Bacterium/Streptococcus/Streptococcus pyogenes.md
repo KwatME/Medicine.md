@@ -12,6 +12,9 @@ Genes means making.
 Diplococcus.
 Chain is longer than Streptococcus pneumonia.
 
+Group A Streptococcus.
+Becitracin sensitive.
+
 ## Life
 
 Nasopharynx.
@@ -45,14 +48,14 @@ Erythrogenic toxins including streptolysin O (O2 inactivates it) damages the red
 
 Streptolysin O: responsible for b hemolysis; sends in NADase via the pore; oxygen killed hemolytic exotoxin; works with NADase; resist phagosome acidification and NADase moves from the phagolysosome to cytosol and destroys NAD and depletes energies; toxic to various cell types including myocardium.
 Streptolysin S: oxygen not-killed lytic exotoxin againt broad targets including erythrocytes, leukocytes, platelets, and organalles including lysocomes and mitochondria.
-Catalase-negative (unlike Staphylococcus aureus).
+Catalase-negative (unlike many other organisms).
 
 Streptococcal pyrogenic exotocin A and C: encoded by bacteriophage; superantigens ==> nonspecifically activate immune cells; rash, scarlet fever, nectotizing fasciitis, ~toxic shock syndrome.
 Streptococcal pyrogenic exotocin B: degrade extracellular matrix, cytokines, compliment proteins, antibodies.
 
-Hyaluronidase degrades hyaluronic acid in connective tissue.
+Hyaluronidase degrades (Staphylococcus aureus has it too) hyaluronic acid in connective tissue.
 DNAase.
-Streptokinase activates plasmin, which breaks thrombus; used as thrombolytic therapeutic.
+Streptokinase (Staphylococcus aureus has Staphylokinase which activates plasmin which digests fibrin clots and degrades C3b and IgG opsonins).
 
 ## Therapy
 
@@ -83,18 +86,34 @@ In children, negative rapid antigen detection test (specific but not sensitive) 
 
 Diagnose acute rheumatic fever based on the Jones criteria.
 
+Anti Streptolysin O titer indicates recent infection, but is not commonly done.
+
 # ^
 
 Streptococcal Pharyngitis
 (Common in 5-15 years old but viral pharyngitis is still the most common.)
 
 Scarlet Fever
-(Associated with Streptococcal pharyngitis)
+(Associated with Streptococcal pharyngitis; fever, pharyngitis, and erythematous rash)
+
+Strawberry Tongue
+
+Circumoral Pallor
 
 Acute Rheumatic Fever
-(Associated with undertreated Streptococcal pharyngitis; autoimmunity from the antibodies against the M protein; pancarditis, pericardial friction, Aschoff body made of multinucleated giant cells in all layers, Sydenham chorea from the antibody effect on the basal ganglia, rash, arthritis that affects smaller joints first)
+(Associated with Streptococcal pharyngitis; common in 5-15 yeals old; autoimmunity from the antibodies against the M protein)
 
-Skin and Soft Tissue Infection
+Post Streptococcal Glomerulonephritis
+(Associated with Streptococcal pharyngitis; 1-2 weeks after the infection; common in children; self limited)
+
+Rheumatic Heart Disease
+(5% of acute rheumatic fever; Presents 10-20 years after the infection; pancarditis, pericardial friction, Aschoff body made of multinucleated giant cells in all layers; In the developing countries, the most common cause of chronic heart disease)
+
+Sydenham Chorea
+(30% of acute rheumatic fever; From the antibody effect on the basal ganglia)
+
+Arthritis
+(Associated with rheumatic fever; Affects smaller joints first) 
 
 Erysipelas
 
@@ -108,16 +127,12 @@ Folliculitis
 
 Impetigo
 
-
 Toxic Shock Syndrome
 (Associated with Streptococcal skin infection; 50% death rate)
 
-Post Streptococcal Glomerulonephritis
-(Associated with Streptococcal skin infection; 1-2 weeks after the infection; common in children)
-
 Fever
 
-Strawberry Tongue
+Lymphoadenopathy
 
 Petechiae
 (Scattered)

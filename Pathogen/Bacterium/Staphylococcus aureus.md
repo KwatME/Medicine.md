@@ -33,7 +33,7 @@ Overreactive immune system results in an inadequate immunity against it.
 
 Its exofoliative toxin breaks epidermis to help spreading.
 Its hyaluronidase breaks down hyaluronic acid found in connective tissues.
-Its staphylokinase completely lyses red blood cells (making it being classified as a B hemolytic microbe).
+Its hemolysin can completely lyses red blood cells (making it being classified as a G or B hemolytic microbe).
 Its DNAse breaks down the neutrophil DNA traps.
 
 It has glucocorticoid receptors.

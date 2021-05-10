@@ -37,6 +37,8 @@ Pneumolysin forms pore.
 
 Good at DNA repair and exchange with transformation, which occurs more under stress.
 
+Optochin sensitive.
+Quellung positive.
 
 ## Life
 
