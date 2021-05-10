@@ -24,9 +24,12 @@ Rectum.
 Lives extracellularly.
 Attaches with pili.
 
+Many serotypes.
 Like lymphatic tissues including Walldeyer's Ring.
 
 Nasopharynx has good ventilation and blood and less anaerobic competitors.
+
+Single axis replication results in a chain.
 
 This remarkable microbe could provide a Master class to other bacteria on how to evade host complement deposition and activation, impede phagocyte recruitment and activation, resist killing by host antimicrobial peptides and reactive oxygen species, escape the DNA nets thrown out by neutrophils, and kill phagocytic host cells by punching holes in their cytoplasmic membrane.
 
@@ -42,6 +45,7 @@ Erythrogenic toxins including streptolysin O (O2 inactivates it) damages the red
 
 Streptolysin O: responsible for b hemolysis; sends in NADase via the pore; oxygen killed hemolytic exotoxin; works with NADase; resist phagosome acidification and NADase moves from the phagolysosome to cytosol and destroys NAD and depletes energies; toxic to various cell types including myocardium.
 Streptolysin S: oxygen not-killed lytic exotoxin againt broad targets including erythrocytes, leukocytes, platelets, and organalles including lysocomes and mitochondria.
+Catalase-negative (unlike Staphylococcus aureus).
 
 Streptococcal pyrogenic exotocin A and C: encoded by bacteriophage; superantigens ==> nonspecifically activate immune cells; rash, scarlet fever, nectotizing fasciitis, ~toxic shock syndrome.
 Streptococcal pyrogenic exotocin B: degrade extracellular matrix, cytokines, compliment proteins, antibodies.
@@ -50,113 +54,75 @@ Hyaluronidase degrades hyaluronic acid in connective tissue.
 DNAase.
 Streptokinase activates plasmin, which breaks thrombus; used as thrombolytic therapeutic.
 
-Single axis replication results in a chain.
-
 ## Therapy
+
+Penicillin, amoxicillin,
+
+Surgery.
 
 ## Epidemiology
 
 Rheumatic fever is rare in developed countries but the most common cause of chronic heart disease called rhuematic heart disease in the developing countries. 
 Rheumatic fever 50% of the time results in joint symptoms and 30% Syndenham chorea.
 
-# ^
-
-Pharyngitis
-
-Skin and Soft Tissue Infection
-
-Scarlet Fever
-
-Toxic Shock Syndrome
-
-Rheumatic Fever
-
-Post Streptococcal Glomerulonephritis
-
-
 ## Immunity
 
 Antibody against M protein.
 M protein mimics host protein, and the antibodies can be autoimmune.
 
-Antibody mediated phagocytosis.
-
 Antibody against streptolysin O.
 
-Red strawberry tongue.
-
-Scattered petechiae.
-
-Elderly and childrne.
-
-60% of bacterial pneumonia and 11% of pneumonia.
-
-Fever.
-
-Pharyngitis.
-Cough.
-
-Infrequent in flora.
-Skin and soft tissue infections.
-Erysipelas.
-Erytheminis.
-Cellulitis.
-Necrotizing fasciitis.
-Folliculitis.
-Impetigo (Staphylococcus is more likely).
-
-Specific toxin causes Scarlet fever, which is associated with pharyngitis and symptoms including fever and diffuse erythematous rash beginning on the face (strawberry tongue) and the trunk.
-
-The cutaneous infections are much more associated with the Streptococcal toxic shock syndrome, which has the mortality over 50%.
-The symptoms can include hypotension, liver failure, and acute respiratory distress.
-
-If (likely pharyngeal infection) untreated, 10 to 20 years after the infection, acute rheumatic fever can happen.
-Autoimmune from the the M protein antibody.
-Common in age 5-15.
-Cardiac (pancarditis, pericardial friction, Aschoff body made of multinucleated giant cells in all layers), central nervous system (Sydenham chorea from the antibody effect on the basal ganglia), skin, joints (smaller joints affected first).
-
-After one to two weeks of the infection (often pharyngitis), autoantibodies can cause temporary glomerulonephritis commonly in kids.
-
-Streptococcal pharyngitis (strep throat)
-Impetigo
-Scarlet fever
-
-Toxic shock syndrome
-Necrotizing fasciitis
-Pneumonia
-Bacteremia
-
-Untreated ==> Rheumatic fever (joints, kidneys, heart valves)
-Glomerulonephritis (more common after skin infection)
+Antibody mediated phagocytosis.
 
 ### Diagnosis
 
-Viral features should be absent: rhinorrhea, cough, oral olcer, horseness.
+Viral features should be absent: rhinorrhea, cough, oral olcer, conjunctivis, and horseness.
 
+Throat culture rapid antigen detection test.
 In children, negative rapid antigen detection test (specific but not sensitive) should be confirmed by throat culture.
 
-Many serotypes.
+Diagnose acute rheumatic fever based on the Jones criteria.
 
-Diagnose acute rheumatic fever based on the Jones criteria: two major criteria or one major criteria wiht two minor criteria.
-Major criteria: pancarditis, polyarthritis, subcutaneous nodules, erythema marginatum, and Syndenham chorea.
-Minor criteria: ECG heart block, arthralgia, high erythrocyte sedimentation rate or C reactive protein, fever, leukocytosis, and history of rheumatic fever.
+# ^
 
-Beta-hemolysis, a complete destruction of red blood cells.
+Streptococcal Pharyngitis
+(Common in 5-15 years old but viral pharyngitis is still the most common.)
 
-Staphylococci are catalase positive whereas streptococci are catalase-negative.
-Catalaze converts H2O2 into H2O and O2.
-Catalaze breaks down H2O2, protecting an organism from oxidative stress.
+Scarlet Fever
+(Associated with Streptococcal pharyngitis)
 
-Rapid strep test or culture
+Acute Rheumatic Fever
+(Associated with undertreated Streptococcal pharyngitis; autoimmunity from the antibodies against the M protein; pancarditis, pericardial friction, Aschoff body made of multinucleated giant cells in all layers, Sydenham chorea from the antibody effect on the basal ganglia, rash, arthritis that affects smaller joints first)
 
-Strep throad 5-15 years old.
+Skin and Soft Tissue Infection
 
-Viral pharyngitis is still most common.
-Viral sympts include: cough ,rihorra, horseness, oral ulcers, conjucticits.
+Erysipelas
 
-Throad culture rapid antigen detection test is a gold stanfrd dtst.
+Erytheminis
+
+Cellulitis
+
+Necrotizing Fasciitis
+
+Folliculitis
+
+Impetigo
 
 
-Penicillin, amoxicillin,
+Toxic Shock Syndrome
+(Associated with Streptococcal skin infection; 50% death rate)
 
-Surgery.
+Post Streptococcal Glomerulonephritis
+(Associated with Streptococcal skin infection; 1-2 weeks after the infection; common in children)
+
+Fever
+
+Strawberry Tongue
+
+Petechiae
+(Scattered)
+
+Pneumonia
+(11% of pneumonia and 60% of bacterial pneumonia)
+
+Bacteremia
