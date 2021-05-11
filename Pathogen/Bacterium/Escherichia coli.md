@@ -1,5 +1,7 @@
 # "
 
+Named after pediatrician Escherich and colon.
+
 Gram- rod.
 Commensal in the gastrointestinal tract.
 Horizontal gene transfer.
@@ -44,16 +46,21 @@ Attachment results in getting inside the cell.
 Replicates intracellularly and rapidly, bulging and bursting the infected cell.
 Some may hide intracellularly and dormantly and result in a recurrent infection.
 
+Urinary tract abnormalities are risk fasctors for recurrent infection.
+
+Structural abnormalities are risk fasctors for recurrent infectionl
+
+Seminal tract infection is possible too.
+
 Neutrophils come and infected cells come off.
 Urine analysis: hazy (cells and debris), blood (inflammation), nitrite (bacteria metabolite), leukocyte esterase (while blood cell especially neutrophil protein), white blood cells, and bacteria.
 
 Empirical treatment:
 - Amoxicillin (old practice)
-- Trimethoprim-sulfamethoxazole
+- Trimethoprim-sulfamethoxazole (increasing resistance)
 - Nitrofurantoin
 - Phosphomycin
-- Fluoroquinolone
-- Ciprofloxacin
+- Ciprofloxacin (increasing resistance) 
 - B lactams
 
 # ^

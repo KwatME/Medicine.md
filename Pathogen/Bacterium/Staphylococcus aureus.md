@@ -19,7 +19,7 @@ It walls itself with biofilm.
 The biofilm often contains fungus Candida albicans.
 It also has coagulase, which activates fibrinogen into fibrin to form thrombotic walls.
 
-It has multiple adhesins.
+It has multiple adhesins and microscopically damaged surfaces are prone to be infected.
 
 It can make energy by oxidation or fermentation.
 
@@ -47,8 +47,6 @@ Its culture should be Gram+, grape like, catalase+, coagulase+, and DNAse+.
 
 Iron sequestration.
 
-
-
 It is used to be treated with simpler cell wall inhibitors (B lactams) such as penicillin, which inhibits PBP.
 But some acquired penicillnase, which inactivates penicillin.
 
@@ -56,6 +54,7 @@ Penicillnase-resistant cell wall inhibitors like nafcillin (the most specific tr
 
 But then B lactam resistant Staphylococcus aureus (MRSA) emerged.
 MRSA has mecA gene that makes PBP2a, which binds less with B lactams.
+mecA is on a mobile genomic sequence that can be transferred to others.
 Methicillin is an old B lactam that used to be used clinically but now it is used only to test for this resistance.
 For treating MRSA, vancomycin, which disrupts D-Alanine-D-Alanine crosslinking in the cell wall synthesis, is used.
 
@@ -110,3 +109,5 @@ Osteomyelitis
 Septic Arthritis
 
 Implant Infection
+
+Embolism

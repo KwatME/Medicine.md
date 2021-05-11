@@ -1,3 +1,0 @@
-# ^
-
-Hemolytic Uremic Syndrome

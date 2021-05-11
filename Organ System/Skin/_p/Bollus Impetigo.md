@@ -1,3 +1,0 @@
-# "
-
-Impetigo with trapped fluids.

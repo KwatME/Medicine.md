@@ -2,7 +2,7 @@
 
 Lipopeptide.
 
-Froms pore in Ca++ dependent manner.
+Froms a pore in Ca++ dependent manner.
 
 Narrow spectrum bactericidal (faster than vancomycin) against serious methicillin resistant Staphylococcus aureus infection without pneumonia.
 

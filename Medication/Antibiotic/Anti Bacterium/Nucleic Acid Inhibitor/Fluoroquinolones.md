@@ -1,9 +1,8 @@
 # "
 
-Fluoroquinolone.
+Originally developed as quinolone and later added fluorine to become fluoroquinolone.
 
-Inhibits type 2 topoisomerases and topoisomerase 4 (both targets of Gram+) and DNA gyrase (target of Gram-).
-
+Inhibits topoisomerase 4 (common target in Gram+) and DNA gyrase (common target in Gram-).
 Bactericidal.
 
 Common use:
@@ -13,4 +12,21 @@ Common use:
 
 -oxacin.
 
-Ciprofloxacin is one of the most popular antibiotics, and is mainly used against Gram-.
+Ciprofloxacin is the oldest, one of the most popular antibiotics, mainly used against Gram-.
+Levofloxacin.
+Gemifloxacin.
+Moxifloxacin.
+
+Gram- rods and Neisseria are developing resistance.
+- Mutate topoisomerase
+- Block entry
+- Pump out
+- Modify
+- Repair DNA
+
+Side effects:
+- Gastrointestine deficits (Clostridium difficile infection)
+- Central nervous system deficits (dizziness, anxiety, confusion)
+- Tendinopathy (especially with elderly and corticosteroid use)
+- QT interval prolongation
+- Dysglycemia (due to pancreatic B channel close)
