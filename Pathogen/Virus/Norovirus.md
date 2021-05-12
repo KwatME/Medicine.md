@@ -1,74 +1,46 @@
 # "
 
-## Profile Picture
-
-![](1.jpeg)
-
-## Summary
-
-## Name
-
-## PATHOGEN
-
-### Evolve
-
-No envelop.
-
-RNA.
+1 layered capsid.
+Non-enveloped.
++ssRNA linear genome.
 
 Human specific.
 
-### Enter
+Few particles are enough to cause a disease.
 
-Small intestine.
+Environemnt-to- or oral-to- oral transmission.
 
-### Colonize
+Infects small intestine.
 
-### Persist
-
-### Replicate
-
-### Exit
-
-## IMMUNITY
-
-### Protect
-
-### Detect
-
-### Deploy
-
-### Eliminate
-
-### Remember
-
-## MEDICINE
-
-### Sign and Symptom
-
-Vomit.
-Diarrhea.
-Fever.
-
-### Diagnosis
-
-### Therapy
-
-Rehydration.
-
-### Prevention
-
-No vaccine.
+Asymptomatic shedding.
 
 ### Epidemiology
 
+Winter vomiting disease.
+
+Strains are named after ones found in outbreaks, which are heterogeneous.
+Immunity against one strain does not protect from other strains.
+
 The top cause of diarrhea in the developed world.
-Heterogeneous outbreaks.
+The most common cause of viral gastroenteritis outbreaks, common in cruise ships.
 
-## Gallery
+## Medicine
 
-![](2.jpeg)
+PCR.
+Antigen (less specific due to heterogeneity).
 
-![](3.jpeg)
+Self limited.
 
-![](4.jpeg)
+Rehydration therapy.
+
+No vaccine.
+
+# ^
+
+Nausea
+
+Vomit
+
+Diarrhea
+
+Fever

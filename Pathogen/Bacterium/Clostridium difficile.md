@@ -1,81 +1,67 @@
 # "
 
-## Profile Picture
-
-![](1.jpeg)
-
-## Summary
-
-## Name
-
-## PATHOGEN
-
-### Evolve
+## Feature
 
 Gram+.
 Rod.
 Anarobe, which commonly disseminate as spores.
+Spores show up less stained in a Gram staining.
 Spores are in poop.
+Bleach can kill the spores.
 Alcohol is not effective at breaking the spores.
 Non-toxic strains are commenal.
 
-### Enter
+Spores live in the environment.
+Asymptomatic carriers (small number of people) can be reserviors.
+
+Strains that secrete toxins cause symptoms.
+
+Spores transmit via any medical items; wash hands.
+
+## Life
 
 Fecal-oral transmission.
 Bile activates the spores in the intestine.
-People on antibiotics or gastric acid suppression are suceptible to infection.
 
-### Colonize
+Gastric acid kills them.
+People on antibiotics or gastric acid suppression are suceptible to infection.
 
 Colonize gastrointestinal if the commensal microbes are weak.
 
-### Persist
+Toxin A activates neutrophil and toxin B is more potent, both degrade epithelial cells.
 
-Toxin damages epithelial cells.
+Toxin PCR, but positive result without symptoms do not need treatment.
 
-### Replicate
+Degrading epithelial cells, immune cells, and debris form plaques.
 
-### Exit
+Disrupt tight junctions.
 
-## IMMUNITY
+Risk factors:
+- Antibiotics
+- Hospitalization
+- Elderly
+- Severe illness
+- Gastric acid suppression
+- Chemotherapy
 
-### Protect
+## Medicine
 
-Gastric acid.
+Fecal toxin antigen test.
 
-### Detect
+Treat with oral vancomycin.
+Fecal transplant high high cure rate in refractory cases.
 
-### Deploy
+Younger patient, oral metronidazole.
+Older patient, oral vancomycin.
 
-### Eliminate
+Asymptomatic patients do not need treatment.
 
-### Remember
+# ^
 
-## MEDICINE
+Diarrhea
 
-### Sign and Symptom
+Pseudomembranous Colitis
 
-Diarrhea.
+Toxic Megacolon
 
-
-### Diagnosis
-
-Toxin PCR.
-Positive PCR without symptoms don't need treatment.
-
-### Therapy
-
-Oral vancomycin.
-Fecal transplant.
-
-### Prevention
-
-### Epidemiology
-
-## Gallery
-
-![](2.jpeg)
-
-![](3.jpeg)
-
-![](4.jpeg)
+Bowel Perforation

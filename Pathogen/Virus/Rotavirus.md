@@ -1,67 +1,44 @@
 # "
 
-## Profile Picture
+Rota refers to wheel.
+Encapsulated with 3 layers.
+Non-enveloped; so resistant in the environment.
 
-![](1.jpeg)
+dsRNA genome in 11 segments, each coding for a protein.
 
-## Summary
+Moternal antibodies wane by 6 months.
 
-## Name
+Fecal-oral transmission.
+Infects small intestine.
+Trypsin activates the capsid proteins.
+Enters mature enterocytes, which are found near the tip of a villus.
+Proliferation blunts the villus.
 
-## PATHOGEN
+Villi recovers after an infection.
 
-### Evolve
+Diarrhea is from:
+- Less absorption from blunted villi and loss of brush border enzymes
+- Non-structural protein 4 leaking Cl-
+- Enteric nervous system activation that promotes fluid secretion
 
-### Enter
+IgA memory makes reinfection milder.
 
-### Colonize
+## Medicine
 
-Enterocyte.
+Self limited.
 
-### Persist
+There is a live attenuated vaccine, but is contraindicated in intussusception.
 
-Blunts enterocyte tips.
-
-Leaks Cl-, Na+ and water follows.
-
-### Replicate
-
-### Exit
-
-## IMMUNITY
-
-### Protect
-
-### Detect
-
-### Deploy
-
-### Eliminate
-
-### Remember
-
-## MEDICINE
-
-### Sign and Symptom
-
-Malabsorption.
-
-### Diagnosis
-
-### Therapy
-
-### Prevention
-
-Vaccine.
-
-### Epidemiology
+## Epidemiology
 
 Used to be the top cause of diarrhea in the developing world.
 
-## Gallery
+# ^
 
-![](2.jpeg)
+Fever
 
-![](3.jpeg)
+Vomiting
 
-![](4.jpeg)
+Diarrhea.Watery
+
+Malabsorption

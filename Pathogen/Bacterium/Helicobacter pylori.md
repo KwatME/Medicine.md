@@ -1,89 +1,86 @@
 # "
 
-## Profile Picture
+It has co-evolved with human.
+Its lineage traces human migrations.
+If it had an environmental reservoir, then its lineage should be more independent of human migration.
 
-![](1.jpeg)
+It transmited oral to oral.
+Vomit contains it but poop does not.
 
-## Summary
+It used to be called Campylobacter pylori, because of its similarities to Campylobacter.
+It is a Gram- spiral bacillus.
+It is an anaerobe, like many other Gram- gastrointestinal bacteria.
 
-## Name
+It infects only stomach pylorus and lives extracellularly.
 
-## PATHOGEN
+Its urease, which is its most abundant protein, converts urea into HCO3- and NH4+ to neutralize H+, to weakly protects itself.
 
-### Evolve
+It moves using Flagella.
 
-Co-evolved with human.
+Flagella are usually immunogenic but its flagella are covered with a membrane that inhibits triggering immunity.
 
-### Enter
+It moves away from acids and aggregate at gastric epithelial junctions, where there is less acid and more mucus cells, whose mucus protects from the H+.
 
-Can't trasmit from poop.
-Lacks environmental reservoir.
-Transmits from an infected person closely to another one orally.
+Its adhesins anchor it to the epithelial cell junctions, where it proliferates.
 
-### Colonize
+It programs chief cells to supresses HCl secretion and interacts with stem cells deep in the crypt too.
 
-Flagella.
-Infects only stomach pylorus; won't invade deeper.
-Stays near mucus cells, whose mucus protects from the H+.
+Its CagA gene, found in the pathogenic island, codes for type 4 secretion system, a syringe protein, that inserts into a host cell and stimulates proliferation and downregulates apoptosis, leading to cancer.
+CagA stimulates oncogenesis in other cell types too.
 
-### Persist
+Its VacA gene codes for a protein that steals nutrients from a host cell using vacules.
 
-Supresses HCl secretion.
-Urease converts urea into HCO3- and NH4+ to neutralize H+.
-Less immunogenic.
-Membranes mimic host patterns and are less immunogenic.
+Compared to other Gram- gastrointestinal bacteria, it replicates slower.
 
-CagA gene, found in the pathogenic island, codes for a syringe that inserts into a host cell and stimulates proliferation.
-VacA gene codes for a protein that steals nutrients from a host cell using vacules.
+Like other Gram- bacteria, it has lipopolysacharide, which usually is immunogenic but not in the its case.
+It mutated the gene for the Lipid A and added blood group antigen like molecules to the O antigen to make the lipopolysacharide less immunogenic.
 
-### Replicate
+It also programs T regulatory cells to promote its tolerance.
 
-Slow.
+## Epidemiology
 
-### Exit
+Discovered in 1984.
+The most common infection in human; 50% of people are infected.
 
-Vomit.
+Almost all childhood are infected by 10.
+The infecting strain usually persists lifetime.
 
-## IMMUNITY
+50% of the infected people develop symptoms.
 
-### Protect
+Its infective ulcer anti-correlates with gastric cancer, esophageal cancer, childhood asthma, and Mycobacteria tuberculosis.
 
-### Detect
+## Medicine
 
-### Deploy
+Urease breath test: drink carbon labeled labeled urea and measure exhaled CO2.
+Check for anemia because of ulcer.
+Antibody in blood.
+Antigen in stool.
+Endoscopy and biopsy.
 
-### Eliminate
+People who should be treated:
+- Anemia
+- Ulcer
+- Stroke
+- Cancer
 
-### Remember
+Japan is treatng its whole population in hopes to reduce gastric cancer.
 
-## MEDICINE
-
-### Sign and Symptom
-
-50% of the infected people have symptoms:
-- 100% gastritis.
-- 15% ulcer near antrum, pylorus, or duodenum (causes the most duodenal ulcers).
-- 1% gastric cancer (causes 50% of the gastric cancers, which is the fifth most common and third deadliest cancer).
-Ulcer anti-correlates with gastric cancer.
-
-### Diagnosis
-
-### Therapy
-
-### Prevention
-
-### Epidemiology
-
-The most common infection; 50% of people are infected.
-
-## Gallery
-
-![](2.jpeg)
-
-![](3.jpeg)
-
-![](4.jpeg)
+Triple therapy for 4 weeks: omeprazome, amoxicillin, and clarithromycin.
 
 # ^
 
+Gastritis
+(100% of symptomic patients; Histological)
+
 Peptic Ulcer Disease
+(15% of symptomic patients; Strongest risk fasctor for; Ulcer of antrum and pylorus)
+
+Duodenal Ulcer
+(15% of symptomic patients; Strongest risk fasctor for)
+
+Vomit
+
+Loss of Apetite
+
+Gastric Cancer
+(Strongest risk fasctor for; 1% of infected people; The risk of can be as high as getting lung cancer from smoking; Associated with corpus-predominant gastritis and multi-focal atrophic gastritis)

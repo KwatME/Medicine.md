@@ -5,7 +5,7 @@ TMP-SMX.
 Bacteria can not take up exogenous folate and must synthesize it.
 
 Sulfonamides inhibit dihydropteorate synthetase
-Benzylpyrimidines inhibit dihydrofolate reductase.
+Benzylpyrimidines inhibit dihydrofolate reductase, 50000X less potent against human one.
 Together, they inhibit folate synthesis.
 
 Treats bacterial, fungal, and protozoan infections.
