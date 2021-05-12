@@ -1,40 +1,28 @@
 # "
 
-## Feature
+Antibiotics associated toxin-secreting bacteria that inflames the colon.
 
-Gram+.
-Rod.
-Anarobe, which commonly disseminate as spores.
+Non-toxic strains are part of the microbiome but toxin-secreting ones are pathogenic.
+
+Gram+ rod.
+Anaerobe (common to use spores).
+
+Spores are in feces and in the environment.
+In healthcare settings, spores commonly transmit via any medical items; wash hands.
 Spores show up less stained in a Gram staining.
-Spores are in poop.
-Bleach can kill the spores.
-Alcohol is not effective at breaking the spores.
-Non-toxic strains are commenal.
+Alcohol is not effective at breaking the spores but bleach is.
 
-Spores live in the environment.
-Asymptomatic carriers (small number of people) can be reserviors.
-
-Strains that secrete toxins cause symptoms.
-
-Spores transmit via any medical items; wash hands.
-
-## Life
-
-Fecal-oral transmission.
-Bile activates the spores in the intestine.
+Small number of asymptomatic carriers are reserviors.
 
 Gastric acid kills them.
 People on antibiotics or gastric acid suppression are suceptible to infection.
+Once having reached the small intestine, bile activates the spores.
+Active forms colonizes gastrointestinal tract if the commensal microbes are weak.
 
-Colonize gastrointestinal if the commensal microbes are weak.
-
-Toxin A activates neutrophil and toxin B is more potent, both degrade epithelial cells.
-
-Toxin PCR, but positive result without symptoms do not need treatment.
-
-Degrading epithelial cells, immune cells, and debris form plaques.
-
-Disrupt tight junctions.
+Uses 2 toxins: toxin A and toxin B.
+B is more potent than A.
+Toxins activate neutrophils, inflames the local tissue, disrupts the tight junctions, and degrades epithelial cells and immune cells.
+The debris form plaque.
 
 Risk factors:
 - Antibiotics
@@ -44,17 +32,12 @@ Risk factors:
 - Gastric acid suppression
 - Chemotherapy
 
-## Medicine
-
-Fecal toxin antigen test.
-
-Treat with oral vancomycin.
-Fecal transplant high high cure rate in refractory cases.
-
-Younger patient, oral metronidazole.
-Older patient, oral vancomycin.
-
 Asymptomatic patients do not need treatment.
+
+Diagnose with fecal toxin antigen test.
+
+Treat younger patient with oral metronidazole and older patient with oral vancomycin.
+Fecal transplant high cure rate in refractory cases.
 
 # ^
 
