@@ -1,8 +1,12 @@
 # "
 
+Typhoid fever.
 Prolonged fever of unknown origin with chills.
 
-Salmonella Typhi
+Salmonella Typhi and Salmonella Paratyphi, but not other non-human Salmonella.
+Spreads from illeum and colon.
+
+More common in the developing countries.
 
 # ^
 
