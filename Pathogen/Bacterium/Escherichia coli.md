@@ -42,11 +42,27 @@ Diarrhea.Watery
 
 ## Shiga-toxigenic:
 
-Cow feces
+Commensal in cows.
 
-Shiga toxin (not related to shigella), which causes systemic disese including hemolytic uremic syndrome.
+Bacteriophage infected animal enteropathogenic Escherichia coli and gave it the gene for Shiga toxin, an AB toxin like in Vibrio cholera.
+Shiga toxin can be injected using the type 3 secretion system.
 
-Antibiotics stress them and they release more shiga toxin.
+Incubates for 2-5 days.
+Shiga toxin shuts down ribosome, causes apoptosis, and aggregates platelets causing inflammation and local ischemia.
+Watery diarrhea becomes bloody diarrhea.
+Shiga toxin can spread systemically and cause hemolytic uremic syndrome.
+
+Self limited.
+Supportive care until the toxin fades away.
+Antibiotics can be harmful because stressing the bacteria signals the bacteriophage genome to make more virus and exit the bacteria.
+Making more bacteriophage results in making more shiga toxin, which is part of the bacteriophage genome.
+
+Source is contaminated food.
+
+Diarrhea.Bloody
+
+Hemolytic Uremic Syndrome
+(5-10% develops)
 
 ## Uro-pathogenic:
 

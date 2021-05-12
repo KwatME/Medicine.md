@@ -6,8 +6,6 @@ The official name is Human parainfluenza virus.
 
 ## Feature
 
-Paramyxoviridae features.
-
 4 major serotypes, each considered as separate viruses with numbered suffix.
 Human parainfluenza virus 1 typically causes croup.
 
