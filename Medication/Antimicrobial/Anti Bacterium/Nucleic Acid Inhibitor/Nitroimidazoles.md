@@ -1,6 +1,6 @@
 # "
 
-Selectively absorbed by anaerobes, becomes cytotoxic metabolites and damages the DNA.
+Activated in anaerobic condition and thus selectively absorbed by anaerobes, becomes cytotoxic metabolites and damages the DNA.
 
 - Giardia
 - Trichomonas
