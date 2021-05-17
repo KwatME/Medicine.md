@@ -59,10 +59,20 @@ Making more bacteriophage results in making more shiga toxin, which is part of t
 
 Source is contaminated food.
 
+Abdominal Pain
+
+Diarrhea.Watery
+
 Diarrhea.Bloody
+
+Thrombocytopenia
+
+Thrombotic Microangiopathy
 
 Hemolytic Uremic Syndrome
 (5-10% develops)
+
+Acute Kidney Failure
 
 ## Uro-pathogenic:
 
