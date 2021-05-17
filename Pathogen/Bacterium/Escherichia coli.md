@@ -24,7 +24,7 @@ With rotavirus, causes most of the diarrheal illness in children.
 
 Traveler's diarrhea.
 
-Affects the proximal small intestine.
+Infects the proximal small intestine.
 
 Diarrhea.Watery
 
@@ -34,9 +34,8 @@ Pili.
 Pathogenicity island codes for type 3 secretion system, which inserts into a enterocyte to create a channel.
 Through the channel, proteins move into the cell and remodel the cytoplasm to build a docking site and damage the tight junction.
 
-Common in infants.
-
-Affects the proximal small intestine.
+Infects the proximal small intestine.
+Commonly cause long duration diarrhea in infants.
 
 Diarrhea.Watery
 
@@ -47,6 +46,7 @@ Commensal in cows.
 Bacteriophage infected animal enteropathogenic Escherichia coli and gave it the gene for Shiga toxin, an AB toxin like in Vibrio cholera.
 Shiga toxin can be injected using the type 3 secretion system.
 
+Infects the distal small intestine and colon.
 Incubates for 2-5 days.
 Shiga toxin shuts down ribosome, causes apoptosis, and aggregates platelets causing inflammation and local ischemia.
 Watery diarrhea becomes bloody diarrhea.

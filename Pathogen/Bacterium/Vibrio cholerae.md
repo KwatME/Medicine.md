@@ -15,7 +15,8 @@ Cholera means diarrhea caused by bile.
 
 Gram- rod.
 Facultative anaerobe.
-Lives on aquatic shells and plants.
+Lives on aquatic things and guts of animals.
+A few strains are adapted to human.
 Cholera toxin is from bacteriophage.
 
 ### Enter
@@ -25,13 +26,13 @@ A lot is needed to cause disease; most die in the stomach, but some reach intest
 
 ### Colonize
 
-Affects the proximal small intestine.
+Infects the proximal small intestine.
+Pilli attach it to the surface and to each other.
 
 Chemotaxis directs it to the intestinal surface, requirement for pathogenesis.
 1 flagellum moves it.
 At the surface, mucinase degrades mucin secreted by the intestinal goblet cells.
-Pilli attach it to the surface and to each other.
-Proliferates there.
+Proliferates on the surface of the villi.
 
 ### Persist
 
@@ -66,15 +67,17 @@ Acute and the most severe diarrhea of white cloudy stool.
 Abdominal cramps.
 Dehydration.
 Death in few hours if an infected child is not treated.
+30% mortality.
 HCO3- loss results in metabolic acidosis.
 
 ### Diagnosis
 
 Clinical diagnosis.
+Stool microscopy and culture.
 
 ### Therapy
 
-Oral rehydration solutions.
+Oral rehydration solutions: 6 sugar : 0.5 salt.
 In severe cases, intravenous fluid.
 Can medicate with fluoroquinolones and tetracyclines.
 

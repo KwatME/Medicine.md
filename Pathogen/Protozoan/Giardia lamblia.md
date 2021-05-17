@@ -10,8 +10,9 @@ Commensal microbes absorb the unabsorbed lipids and release the oily smell.
 
 Resistant and infectious cysts in feces.
 Fecal oral transmission.
-Bile hatches cysts into trophozoites in the duodenum.
+Changing from low pH in the stomach to high pH in the duodenum hatches cysts into trophozoites in the duodenum.
 In the colon, as bile concentration decreases, trophozoites become cysts again.
+Feces contain both trophozoites and cyscts.
 
 Some people are asymptomatic carriers.
 

@@ -2,7 +2,6 @@
 
 Salmonella typhi and paratyphi are human specific.
 Fecal-oral transmission.
-Can spread from illeum and colon and cause systemic disease.
 
 Incubates for 7-10 days; insidious.
 Spreads to spleen, marrow, and bloody places.

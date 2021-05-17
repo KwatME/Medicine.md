@@ -2,13 +2,16 @@
 
 Like toxoplasmodium of enterocyte.
 
+AIDS defining infection.
+
 Cysts in contaminated water.
 Resistant and infectious cysts.
 The only way to get rid of it is by filtering. 
-At stomach and with bile, cysts hatch into banana-shaped sporozoites.
+Passing through stomach and contacting bile hatch cysts into banana-shaped sporozoites.
 Sporozoites attach to jejunum enterocytes using the pole with the apical complex, which can secrete things into the cell and program the cell to extend the membrane to cover the sporozoite, an epicellular localization.
 There, it steals nutrients from the enterocyte using its feeding organelle.
 Mechanism of diarrhea is unknown.
+Can spread throughout the gastrointestinal tract in immunocompromised people.
 
 More severe in infants.
 Stunts growth.
@@ -19,8 +22,10 @@ Self limited, but intractable diarrhea in immunocompromised can be lethal.
 - Paromomycin (aminoglycoside)
 - Azithromycin (macrolide)
 
-PCR test.
-Antigen test.
+Wet mount.
+Acid fast stain.
+PCR.
+Antigen.
 
 # ^
 

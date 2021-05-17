@@ -3,10 +3,8 @@
 Non-enveloped.
 +ssRNA.
 
-Infects small intestine.
-
-Common in children.
-
 # ^
+
+Gastroenteritis
 
 Diarrhea.Watery
