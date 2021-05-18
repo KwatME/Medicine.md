@@ -26,6 +26,8 @@ Traveler's diarrhea.
 
 Infects the proximal small intestine.
 
+Fecal-oral transmission?
+
 Diarrhea.Watery
 
 ## Enteropathogenic:
@@ -37,27 +39,34 @@ Through the channel, proteins move into the cell and remodel the cytoplasm to bu
 Infects the proximal small intestine.
 Commonly cause long duration diarrhea in infants.
 
+Fecal-oral transmission?
+
 Diarrhea.Watery
 
-## Shiga-toxigenic:
+## Shiga-toxigenic or enterohemorrhagic:
 
-Commensal in cows.
+Commensal in cattles.
 
 Bacteriophage infected animal enteropathogenic Escherichia coli and gave it the gene for Shiga toxin, an AB toxin like in Vibrio cholera.
-Shiga toxin can be injected using the type 3 secretion system.
+The shiga A subunit can insert the shiga B subunit and the type 3 secretion system can also inject the shiga B subunit.
 
 Infects the distal small intestine and colon.
 Incubates for 2-5 days.
-Shiga toxin shuts down ribosome, causes apoptosis, and aggregates platelets causing inflammation and local ischemia.
-Watery diarrhea becomes bloody diarrhea.
-Shiga toxin can spread systemically and cause hemolytic uremic syndrome.
+
+Shiga subunit A shuts down ribosome causing apoptosis.
+Shiga subunit B destroys cells.
+Together they can affect cells of glomerulus, colon, cerebral epithelium, microvascular endothelium, monocytes, and platelets.
+Microangiopathy results inflammation, thrombosis, and ischemia.
+
+Watery diarrhea plus inflammation results in bloody diarrhea.
 
 Self limited.
-Supportive care until the toxin fades away.
+Supportive care such as volume expansion, transfusion, and dialysis until the toxin fades away.
 Antibiotics can be harmful because stressing the bacteria signals the bacteriophage genome to make more virus and exit the bacteria.
-Making more bacteriophage results in making more shiga toxin, which is part of the bacteriophage genome.
+Because the gene for shiga toxin is near viral genes, making more bacteriophage results in making more shiga toxins.
 
 Source is contaminated food.
+Does not spread from human to human like enterotoxigenic and enteropathogenic Escherichia coli.
 
 Abdominal Pain
 
@@ -70,9 +79,7 @@ Thrombocytopenia
 Thrombotic Microangiopathy
 
 Hemolytic Uremic Syndrome
-(5-10% develops)
-
-Acute Kidney Failure
+(5-10% cases)
 
 ## Uro-pathogenic:
 

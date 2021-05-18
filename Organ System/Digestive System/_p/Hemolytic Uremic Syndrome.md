@@ -11,6 +11,10 @@ Schistocyte accumulate in places.
 
 Acute Kidney Failure
 
+Microangiopathic Hemolytic Anemia
+
+Thrombocytopenia
+
 # v
 
 Central Nervous System

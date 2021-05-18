@@ -1,8 +1,12 @@
 # "
 
-Like Escherichia coli, but acquired from plasmid the ability to invade into a cell.
+Escherichia coli variant that acquired from plasmid the ability to invade into a cell.
 Lacks flagella.
 Some produce shiga toxin.
+
+Infects only primates.
+
+Fecal-oral transmission and highly infectious from food, feces, fingers, and flies.
 
 Small number from food, feces, fingers, or flies can be infectious.
 Incubates for 1-7 days.

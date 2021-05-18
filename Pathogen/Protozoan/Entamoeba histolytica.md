@@ -6,20 +6,18 @@ Anearobe.
 Contains many values containing difestive chemicals.
 
 Some other Entamoeba are commensal in the gastrointestinal tract.
-But Entamoeba histolytica trophozoites have red blood cells within.
 
 Fecal-oral transmission of resistant cysts (resists stomach acid).
 Bile acid stimulates the digesting of the cyst wall from within, and a trophozoite emerges.
+Trophozoites degrades the mucus layer with proteases and comes in contact with the enterocytes.
 Trophozoites colonize colon, eating bacteria and dead epithelial cells.
-Becomes pathogenicity somehow.
-Subacute onset 1-3 weeks.
-Degrades the mucus layer and comes in contact with the enterocytes.
 Eats epithelial cells and inflames the local tissue.
-Invades deeper and eats red blood cells.
+Invades deeper and eats red blood cells (other commensal amoeba do not).
+Subacute onset 1-3 weeks.
 Spreads via portal circulation to liver.
 
-Diagnose with PCR.
-Do stool bacterial culture to consider other bacterial inflammatory diarrhea.
+Stool microscopy, rapid antigen test, and PCR.
+Differentiate other bacterial inflammatory diarrhea.
 
 Metronidazole targets the trophozoites and paromomycin targets the cysts (aminoglycoside protein systhesis inhibitor).
 
