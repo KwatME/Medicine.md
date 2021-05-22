@@ -1,3 +1,0 @@
-# ^
-
-Hairy Cell Leukemia

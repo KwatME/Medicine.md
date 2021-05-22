@@ -1,7 +1,0 @@
-# "
-
-Plasmapheresis indicated.
-
-# ^
-
-Thrombosis

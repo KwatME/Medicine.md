@@ -1,7 +1,0 @@
-# "
-
-Similar to TPO.
-
-# ^
-
-Erythropoiesis

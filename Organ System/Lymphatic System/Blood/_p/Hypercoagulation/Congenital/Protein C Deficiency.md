@@ -1,7 +1,0 @@
-# \
-
-Protein C
-
-# ^
-
-Thrombosis

@@ -1,7 +1,0 @@
-# "
-
-T lineage.
-
-# \
-
-Granulocyte

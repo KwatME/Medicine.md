@@ -1,5 +1,0 @@
-# ^
-
-Hemolysis
-
-Flank Pain

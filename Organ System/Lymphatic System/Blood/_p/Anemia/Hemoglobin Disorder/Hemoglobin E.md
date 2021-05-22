@@ -1,7 +1,0 @@
-# ^
-
-Hemolysis
-
-# v
-
-Life

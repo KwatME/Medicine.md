@@ -1,7 +1,0 @@
-# \
-
-Protein S
-
-# ^
-
-Thrombosis

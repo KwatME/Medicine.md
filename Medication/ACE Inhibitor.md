@@ -1,7 +1,0 @@
-# /
-
-Bradykinin
-
-# v
-
-Blood Pressure

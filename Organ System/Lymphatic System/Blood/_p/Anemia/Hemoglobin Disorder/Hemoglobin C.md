@@ -1,9 +1,0 @@
-# ^
-
-Hemolysis
-
-# v
-
-Plasmodium
-
-Life

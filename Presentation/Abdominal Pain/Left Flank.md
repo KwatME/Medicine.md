@@ -1,7 +1,0 @@
-# /
-
-Nephrolithiasis
-
-Pyelonephritis
-
-Perinephric Abscess

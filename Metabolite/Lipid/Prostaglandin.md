@@ -1,9 +1,0 @@
-# /
-
-Neutrophil
-
-# >
-
-Prostacyclin
-
-Thromboxane

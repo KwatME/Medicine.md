@@ -1,7 +1,0 @@
-# "
-
-IgM.
-
-# -
-
-Blood Antigen A

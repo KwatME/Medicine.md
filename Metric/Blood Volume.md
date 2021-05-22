@@ -1,3 +1,0 @@
-# ^
-
-Acute Respiratory Distress Syndrome

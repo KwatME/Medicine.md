@@ -1,5 +1,0 @@
-# >
-
-Prostaglandin
-
-Leukotriene

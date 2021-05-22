@@ -1,7 +1,0 @@
-# \
-
-Chediak-Higashi Syndrome.
-
-# ^
-
-Lysosome

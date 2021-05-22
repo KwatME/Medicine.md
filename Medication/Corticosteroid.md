@@ -1,7 +1,0 @@
-# /
-
-Neutrophil
-
-# v
-
-Neutrophil

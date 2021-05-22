@@ -1,5 +1,0 @@
-# ^
-
-Macrocytic Anemia
-
-Acute Hepatitis

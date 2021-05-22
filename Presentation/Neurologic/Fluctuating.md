@@ -1,3 +1,0 @@
-# {
-
-Demyelinating Disease

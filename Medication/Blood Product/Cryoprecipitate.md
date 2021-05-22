@@ -1,3 +1,0 @@
-# {
-
-Fibrinogen

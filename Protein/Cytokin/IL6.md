@@ -1,9 +1,0 @@
-# /
-
-Neutrophil
-
-# ^
-
-Erythropoiesis
-
-Thrombopoiesis

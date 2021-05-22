@@ -1,5 +1,0 @@
-# "
-
-Disrupts mitochondria.
-
-Treats Plasmodium.

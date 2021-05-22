@@ -1,3 +1,0 @@
-# ^
-
-Peptic Ulcer Disease

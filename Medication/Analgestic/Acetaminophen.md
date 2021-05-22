@@ -1,7 +1,0 @@
-# ^
-
-Acute Hepatitis
-
-# v
-
-Pain

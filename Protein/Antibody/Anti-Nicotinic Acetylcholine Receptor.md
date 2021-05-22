@@ -1,3 +1,0 @@
-# -
-
-Neuromuscular Junction

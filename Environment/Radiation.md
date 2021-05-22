@@ -1,3 +1,0 @@
-# ^
-
-Myelodysplastic Syndrome
