@@ -1,0 +1,7 @@
+# /
+
+Thromboxane
+
+# ^
+
+Platelet

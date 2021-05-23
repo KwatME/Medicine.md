@@ -1,0 +1,3 @@
+# "
+
+Inhibits folate DNA replication.

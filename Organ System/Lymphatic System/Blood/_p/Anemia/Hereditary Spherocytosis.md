@@ -1,0 +1,7 @@
+# /
+
+Spherocyte
+
+# \
+
+Red Blood Cell
