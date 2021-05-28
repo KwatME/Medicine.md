@@ -15,6 +15,7 @@ Rifapentine.
 Rifamixin, like fidaxomicin and vancomycin, has poor absoption and is used for primarily traveler's diarrhea.
 
 Side effects:
+
 - Orange urine
 - Thrombocytopenia
 - Cholestatic juandice

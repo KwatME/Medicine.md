@@ -6,6 +6,7 @@ Inhibits topoisomerase 4 (common target in Gram+) and DNA gyrase (common target 
 Bactericidal.
 
 Common use:
+
 - Community acquired pneumonia
 - Urinary tract infection
 - Not Neisseria gonorrhea
@@ -18,6 +19,7 @@ Gemifloxacin.
 Moxifloxacin.
 
 Gram- rods and Neisseria are developing resistance.
+
 - Mutate topoisomerase
 - Block entry
 - Pump out
@@ -25,6 +27,7 @@ Gram- rods and Neisseria are developing resistance.
 - Repair DNA
 
 Side effects:
+
 - Gastrointestine deficits (Clostridium difficile infection)
 - Central nervous system deficits (dizziness, anxiety, confusion)
 - Tendinopathy (especially with elderly and corticosteroid use)

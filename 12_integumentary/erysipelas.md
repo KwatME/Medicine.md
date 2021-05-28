@@ -9,6 +9,7 @@ Commonly Staphylococcus pyogenes.
 Rarely Staphylococcus aureus.
 
 Risk factors:
+
 - Young and old.
 - Lower extremities.
 

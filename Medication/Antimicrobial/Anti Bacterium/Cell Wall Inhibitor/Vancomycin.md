@@ -11,7 +11,7 @@ Intravenous and requires blood monitoring.
 
 Oral form is for Clostridium difficile.
 
-The core of lipoglycopeptides (which also bind to D-Alanine-D-Alanine), such as Telavancin, Oritavancin, and Dalbavancin. 
+The core of lipoglycopeptides (which also bind to D-Alanine-D-Alanine), such as Telavancin, Oritavancin, and Dalbavancin.
 Lipoglycopeptides have long half life.
 
 # ^

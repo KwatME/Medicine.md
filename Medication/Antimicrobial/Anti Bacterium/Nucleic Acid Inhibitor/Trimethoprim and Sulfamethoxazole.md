@@ -17,6 +17,7 @@ Commonly used for urinary tract infection, if there is low Gram- resistance.
 Prophylaxis for people with CD4 T cells lesser than 100.
 
 Resistance mechanisms:
+
 - Increase substrate
 - Mutate enzyme
 
@@ -24,6 +25,7 @@ Used to be widely used for urinary tract infection.
 However, microbes especially Escherichia coli are becoming resistant.
 
 Side effects:
+
 - Hypersensitivity (erythema multiforme)
 - Gastrointestinal effects
 - Cytopenias

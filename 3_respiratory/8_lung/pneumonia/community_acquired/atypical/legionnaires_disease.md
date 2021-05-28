@@ -5,6 +5,7 @@ Severe and rapidly worsening pneumonia and systemic infection caused by Legionel
 Must be considered for an atypical pneumonia.
 
 Middle or old aged people or people with underlining medical conditions are predisposed:
+
 - Heart disease
 - Diabetes
 - Smoking

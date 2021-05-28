@@ -3,6 +3,7 @@
 More common in female.
 
 Risk factors:
+
 - Recent intercourse
 - History of urinary tract infection
 - Diabetes
@@ -11,6 +12,7 @@ Risk factors:
 - Bladder catheter
 
 Complicated if:
+
 - Pregnancy
 - Male
 - Diabetes
@@ -24,6 +26,7 @@ Staphylococcus aureus in urine suggests its hematogeneous spread.
 Asymptomatic bacteriuria is treated only when there is pregnancy and high bleeding risk.
 
 Antibiotics:
+
 - Nitrofurantoin (contraindicated in glomerular filtration rate < 60)
 - Trimethoprim-sulfamethoxazole
 - Fosfomycin (contraindicated in upper urinary tract infection)

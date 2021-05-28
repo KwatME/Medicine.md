@@ -12,4 +12,5 @@ Used together with others to cover aerobic and anaerobic microbes.
 Used as a monotherapy for Trichomoniasis, bacterial vaginitis, and Clostridium difficile diseases.
 
 Side effects:
+
 - Gastrointestinal intolerance.

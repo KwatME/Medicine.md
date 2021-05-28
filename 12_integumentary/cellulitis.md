@@ -11,6 +11,7 @@ Pseudomonas aeruginosa.
 Gram-.
 
 Risk factors:
+
 - Lower extremities.
 - Trauma.
 - Chronic venous statis.
